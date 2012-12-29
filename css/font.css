@@ -1,0 +1,103 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
+@font-face { font-family: ‘Josefin Sans’; }
+@import url(http://fonts.googleapis.com/css?family=Average+Sans|Libre+Baskerville);
+@import url(http://fonts.googleapis.com/css?family=Voces:400,300);
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+font-family: 'Lobster', cursive;
+font-family: 'Montserrat', sans-serif;
+
+/* To do list http://www.paulund.co.uk/creating-different-css3-box-shadows-effects */
+/* Crazy accident if you constrain width of a circle, you get a pill */
+
+/* Speech bubble http://www.sitepoint.com/pure-css3-speech-bubbles/*/
+
+/* p.speech {
+
+	position: fixed;
+	top: 0px;
+	width: 300px;
+	height: 150px;
+	text-align: center;
+	line-height: 100px;
+	background-color: #fff;
+	border: 8px solid #666;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	-webkit-box-shadow: 2px 2px 4px #888;
+	-moz-box-shadow: 2px 2px 4px #888;
+	box-shadow: 2px 2px 4px #888;
+}
+
+p.speech:before {
+
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+	left: 30px;
+	top: 150px;
+	border: 10px solid;
+	border-color: #666 transparent transparent #666;
+}
+
+p.speech:after {
+
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+	left: 38px;
+	top: 100px;
+	border: 15px solid;
+	border-color: #fff transparent transparent #fff;
+}
+
+p.triangle-topleft {
+	width: 0;
+	height: 0;
+	border-top: 100px solid gray;
+	border-right: 100px solid transparent;
+}
+
+p.infinity {
+    position: 50%;
+    width: 212px;
+    height: 100px;
+}
+
+p.infinity:before,
+p.infinity:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60px;
+    height: 60px;
+    border: 20px solid red;
+    -moz-border-radius: 50px 50px 0 50px;
+         border-radius: 50px 50px 0 50px;
+    -webkit-transform: rotate(-45deg);
+       -moz-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+         -o-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+}
+
+p.infinity:after {
+    left: auto;
+    right: 0;
+    -moz-border-radius: 50px 50px 50px 0;
+         border-radius: 50px 50px 50px 0;
+    -webkit-transform: rotate(45deg);
+       -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+         -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+}
+
+*/

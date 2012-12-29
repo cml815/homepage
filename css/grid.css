@@ -1,0 +1,88 @@
+/* 12 column grid framework with added positioning rules */
+
+.box {
+
+height: relative;
+overflow: hidden;
+padding: 20px 0 20px 20px;
+
+}
+
+
+[class*='col-'] {
+  float: left;
+}
+
+.col-12 {
+
+	width: 100%;
+}
+
+.col-9 {
+	width: 75%;
+
+}
+
+.col-8 {
+	width: 66.67%;
+}
+
+.col-6 {
+  width: 50%;
+}
+
+.col-4 {
+	width: 33.33%;
+}
+
+.col-2 {
+  width: 25%;
+}
+
+.col-1 {
+  width: 12.5%;
+}
+
+/* clear grid */
+
+.grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+[class*='col-'] {
+  padding-right: 20px;
+}
+
+[class*='col-']:last-of-type {
+  padding-right: 0;
+}
+
+/* Outside gutters -- experimenting */
+
+.border {
+  padding: 20px 0 20px 20px;
+}
+ 
+}
+
+.border > [class*='col-']:last-of-type {
+  padding-right: 20px;
+}
+
+/* Novel Styles outside grid system */
+
+.centered {
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top:; /* height of object */ 
+  margin-left:; /* width of object */ 
+
+}
+
+
+
+
