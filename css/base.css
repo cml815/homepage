@@ -19,6 +19,9 @@ body {
 	height: 100%;
 	width: 100%;
 	margin-top: 60px;
+  background-image: url(_site/img/background.png);
+  background-repeat: no repeat;
+  background-position: right top;
 }
 
 header {}
@@ -51,11 +54,11 @@ p {
 
 h1 { 
 
-	font-size:;
+	font-size: 24px;
 	color: #203a4c;
 	line-height: 1.4em;
 	text-rendering: optimizeLegibility;
-	font-family: 'Josefin Sans', Helvetica, sans-serif;
+  font-family: 'proxima nova', Helvetica, Arial, sans-serif; 
 	font-weight: bold;
 }
 	
@@ -177,14 +180,15 @@ blockquote.style5 {
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     text-shadow: 1px 1px #555;
     text-decoration: none;
     }
 
 .button:hover {
     background-position: 0 -48px;
-    background: #3F6E98;
-    color: yellow;
+    background: #fff;
+    color: white;ß
     }
 
 .button:active {
