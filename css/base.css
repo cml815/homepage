@@ -30,48 +30,39 @@ nav {}
 
 article {}
 
-section {
-
-	padding-bottom: 20px;
-}
+section { }
 
 aside {}
 
-footer {
-
-
-}
+footer { }
 
 p {
 	
   	font-weight: 400;
   	font-size: 16px;
   	line-height: 1.5em;
+    margin-bottom: 24px;
   	font-family: "ff-meta-serif-web-pro"; /* 'Libre Baskerville' */
   	font-style: normal;
   	font-variant: normal;
  
 }
 
-h1 { 
+h1, h2, h3, h4, h5, h6 { 
 
-	font-size: 24px;
-	color: #203a4c;
-	line-height: 1.4em;
-	text-rendering: optimizeLegibility;
-  font-family: 'proxima nova', Helvetica, Arial, sans-serif; 
-	font-weight: bold;
+  font-family: "proxima sans", sans-serif;
+  margin-bottom: 24px;
+  font-weight: bold; 
+
 }
-	
 
-h2, h3, h4, h5, h6 { 
+h1 { font-size: 24px; }
 
-font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-font-size:;
-line-height: 2.0em;
-font-weight: bold;
-color: #1e3444;
-}
+h2 { font-size: 22px; }
+
+h3 { font-size: 20px; }
+
+h4, h5, h6 { font-size: 18px; }
 
 
 /* Responsive images */
