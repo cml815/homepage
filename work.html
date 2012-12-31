@@ -2,17 +2,20 @@
 layout: default
 title: Portfolio
 ---
-<section class="matrix content">
-  <h2>Portfolio</h2>
-  <p>Check out my images below!</p>
-</section>
-<ul class="entries">
-  {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">
-      <img src="{{ post.image }}" />
-      <h3>{{ post.title }}</h3>
-    </a>
-  </li>
-  {% endfor %}
-</ul>
+<div id="work">
+  <section>
+    <h1>Portfolio</h1>
+  </section>
+  <section class="portfolio">
+    <ul class="entries">
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">
+        <img src="{{ post.image }}" />
+        <!-- <h3>{{ post.title }}</h3> -->
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>
