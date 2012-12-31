@@ -11,12 +11,26 @@ footer .box {
   padding-left: 40px;
 }
 
+/* Porfolio Section */
+
+
+.portfolio {
+  
+  background-color: transparent;
+  width: 100%;
+  height: relative;
+  padding: 25px;
+  border: 10px solid yellow;
+  overflow: hidden;
+}
+
+
 ul.entries { 
 
   padding: 0;
   list-style: none;
   margin: 20px auto 0;
-  width: 960px;
+  width: 1000px;
 
   }
 
@@ -24,22 +38,21 @@ ul.entries {
 
   float: left;
   padding: 0;
-  margin: 0 5px 10px 5px;
+  border: 5px;
+  margin: 0 5px 200px 5px;
 }
 
-.entries li a { 
+.entries li { 
 
   display: block;
+  height: 200px;
 }
 
 .entries li img {
 
   background-color: white;
-  padding: 5px; margin: 0;
-  border: 1px dotted #666;
-  width: 225px;
-  height: 225px;
-  padding-bottom: 20px;
+  clear: both;
+ 
 }
 
 .entries li a:hover img {
@@ -47,6 +60,7 @@ ul.entries {
   opacity:0.3; 
   filter:alpha(opacity=30);
 }
+
 
 body {
 
@@ -159,16 +173,6 @@ text-align: center;
 
 height: 600px;
 }
-
-.port-container {
-
-  height: 500px;
-  border: 1px solid orange;
-  width: 100%;
-  overflow: hidden;
-  padding: 20px 0 20px 20px;
-
-} 
 
 #follow {
 
@@ -347,26 +351,6 @@ background-color: gray;
   left: auto;
 }
 
-
-/* Porfolio Section */
-
-
-.portfolio {
-
-position:relative;
-min-height: 800px;
-
-}
-
-.portfolio p {
-  
-  background-color: gray;
-  width: 100%;
-  padding: 25px;
-  border: 1px solid white;
-  color: white;
-
-}
 
 .object img {
 

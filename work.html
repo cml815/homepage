@@ -2,7 +2,23 @@
 layout: default
 title: Portfolio
 ---
-<div id="work">
+<div id="work" class="port-wrapper">
+  <section>
+    <h1>Portfolio</h1>
+  </section>
+  <section class="portfolio">
+    <ul class="entries">
+    {% for post in site.posts %}
+      <li>
+        <a><img href="{{ post.url }}" src="{{ post.image }}" height="200" width="200" /></a>
+        <!-- <h3>{{ post.title }}</h3> -->
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>
+
+<!-- div id="work portfolio">
   <section>
     <h1>Portfolio</h1>
   </section>
@@ -12,10 +28,10 @@ title: Portfolio
       <li>
         <a href="{{ post.url }}">
         <img src="{{ post.image }}" />
-        <!-- <h3>{{ post.title }}</h3> -->
+        <h3>{{ post.title }}</h3> 
         </a>
       </li>
       {% endfor %}
     </ul>
   </section>
-</div>
+</div> -->
