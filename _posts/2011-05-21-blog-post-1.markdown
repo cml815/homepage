@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 4531
+author_login: cleopold
+layout: post
+comments: []
+
+author: leopold
+title: Featured Image Link to Google
+published: true
+tags: []
+
+date: 2011-05-21 02:17:37 -04:00
+categories: 
+- Blog
+author_email: caroline.leopold@gmail.com
+wordpress_url: http://localhost.local:8888/karma-demo/?p=4525
+author_url: http://www.leopoldwriting.com
+status: publish
+---
+Clicking on the Feature Image will redirect you to Google.

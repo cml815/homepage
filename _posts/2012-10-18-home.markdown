@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 5277
+author_login: cleopold
+layout: nav_menu_item
+comments: []
+
+author: leopold
+title: Home
+published: true
+tags: []
+
+date: 2012-10-18 06:56:43 -04:00
+categories: []
+
+author_email: caroline.leopold@gmail.com
+wordpress_url: http://leopoldwriting.com/?p=5277
+author_url: http://www.leopoldwriting.com
+status: publish
+---
+

@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 4534
+author_login: cleopold
+layout: post
+comments: []
+
+author: leopold
+title: Feature Video
+published: true
+tags: []
+
+date: 2011-05-21 02:18:26 -04:00
+categories: 
+- Blog
+author_email: caroline.leopold@gmail.com
+wordpress_url: http://localhost.local:8888/karma-demo/?p=4531
+author_url: http://www.leopoldwriting.com
+status: publish
+---
+Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur.

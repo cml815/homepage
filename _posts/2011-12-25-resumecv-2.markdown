@@ -1,0 +1,73 @@
+--- 
+wordpress_id: 167
+author_login: cleopold
+layout: page
+comments: []
+
+author: leopold
+title: Resume/CV
+published: true
+tags: []
+
+date: 2011-12-25 04:11:43 -05:00
+categories: []
+
+author_email: caroline.leopold@gmail.com
+wordpress_url: http://leopoldwriting.com/?page_id=167
+author_url: http://www.leopoldwriting.com
+status: publish
+---
+<h2 style="text-align: left;">Caroline Leopold, MA, GPC</h2>
+<h3>Grants and Contract Proposal Writing</h3>
+<ul>
+	<li>13 years of proposal writing experience</li>
+	<li>Secured $10 million from government, foundation, and corporate sources</li>
+	<li>Expertise in healthcare, housing, medical research, and education</li>
+	<li>Expertise with federal grant and contract regulations: FAR, A-21, A-110, and A-133.</li>
+	<li>Proficient with Grants.gov, SF 424, eRA Commons, and other electronic grant systems.</li>
+</ul>
+<h3>Marketing and Web Copywriting</h3>
+<ul>
+	<li>Marketing writing for Capital Campaigns, Annual Fund, newsletters, and brochures.</li>
+	<li>Experience with marketing and SEO writing, AdSense, and Google Analytics.</li>
+	<li>Experience with content management systems (CMS) and design using HTML, CSS</li>
+</ul>
+<h3>Recent Work and Consulting History</h3>
+<strong>Principal, Leopold Writing, LLC, Philadelphia PA, 11/2011 – Present</strong>
+Proposal writing and website copywriting for non-profit, business, and research. Recent projects:
+<ul>
+	<li>Proposal writing for $100+ million healthcare contract procurement</li>
+	<li>Consulting to health providers for Healthcare Innovation Challenge</li>
+	<li>NIH R-15 proposal writing</li>
+	<li>Procurement for Massachusetts homecare contracts</li>
+	<li>20,000 web copywriting for a business client developing a portal site</li>
+</ul>
+<strong>Grant Writer (Temporary Contract), Arthur Ashe Youth Tennis, PA, 2/2012-Present</strong>. Prepare grant proposals for innovative tennis and education program.
+
+<strong>Senior Consultant, Piurek &amp; Associates, Phoenix, Arizona, 12/2011</strong>
+Drafted written response to RFIs major healthcare contract procurement process.
+
+<strong>Grant Writer, ActionAIDS, Philadelphia PA, 2008-2012</strong>
+Grant and contract proposal writer for Pennsylvania's largest AIDS agency. Secured $2.5 million in government contracts and private grants. Wrote marketing materials and feature stories for web site, annual report, and special solicitation letters.
+
+<strong>Grants Coordinator, Children’s Crisis Treatment Center, Philadelphia PA, 2005-2008</strong>
+Grant writer for an $11 million clinical mental health treatment agency. Provided the Capital Campaign staff with prospectus copy and major donor written solicitations.
+
+<strong>Development Associate, Prometheus Radio Project, Philadelphia PA, 2001– 2002</strong>
+Researched policy on low power FM radio. Wrote policy papers, press releases, and reporting documents on existing grants at Ford Foundation and Open Society Institute. Assisted in organizing of media conferences in Maryland and California.
+
+<strong>Development Officer, Citizens Information Service, Chicago IL, 1999- 2001</strong>
+Responsible for grant writing, special events, annual fund, and major donor cultivation. Also, served as a fee-for-service grants and development consultant to various for-profit and non-profit organizations. As consultant for Second City, Inc., wrote a successful $850,000 HUD/Empowerment Zone grant.
+<h3>Memberships and Honors</h3>
+Certified Grants Professional until 2014
+Member, National Grants Management Association
+Member, American Medical Writer’s Association
+<h3>Education</h3>
+Nursing Courses, Drexel University, 2003-2004
+
+Master’s in Psychology; Minor in Statistics &amp; Research Methods, 1999
+University of Illinois at Chicago; University Fellow
+
+1991 Bachelor’s of Arts, History, Trinity College, Hartford, CT
+
+Download: <a href="http://leopoldwriting.com/wp-content/uploads/2011/12/Caroline-Leopold-Resume-PDF.pdf"> Resume PDF</a>

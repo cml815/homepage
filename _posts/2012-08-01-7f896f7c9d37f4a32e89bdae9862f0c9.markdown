@@ -1,0 +1,75 @@
+--- 
+wordpress_id: 5187
+layout: feedback
+comments: []
+
+title: Clarisa Mogollon - 2012-08-01 05:03:49
+excerpt: |
+  Also check (as this is the subject of my reason contacting you):
+  www.stille.se/imagiQ2
+  
+  Hi, My name is Clarisa and I am the Global Marketing Manager at Stille in Sweden. I came across your webpage via LinkedIn as we share one group for medical copywriters.
+  
+  Stille is one of the oldest medical device companies in the world, founded in 1841 and has 2 business areas: Surgical instruments and Patient positioning. 
+  
+  I am looking for a freelance copywriter, to better communicate our value proposition to our customers, especially  for our recently launched Surgical imaging table, the Stille imagiQ2 that was presented to North America last june, together with Philips Healthcare.
+  
+  I am currently updating and improving our brochure and need help with wording and strategic content and I was wondering if you could give me a hand? I have a draft ready to sent you for your evaluation.
+  Our US office is located in Chicago and you can also contact them for more info. I would be your main contact for marketing purposes.
+  
+  Looking forward to hearing from you,
+  Best regards,
+  Clarisa
+
+published: true
+tags: []
+
+date: 2012-08-01 05:03:49 -04:00
+categories: []
+
+wordpress_url: http://leopoldwriting.com/?post_type=feedback&p=5187
+status: publish
+---
+Also check (as this is the subject of my reason contacting you):
+www.stille.se/imagiQ2
+
+Hi, My name is Clarisa and I am the Global Marketing Manager at Stille in Sweden. I came across your webpage via LinkedIn as we share one group for medical copywriters.
+
+Stille is one of the oldest medical device companies in the world, founded in 1841 and has 2 business areas: Surgical instruments and Patient positioning. 
+
+I am looking for a freelance copywriter, to better communicate our value proposition to our customers, especially  for our recently launched Surgical imaging table, the Stille imagiQ2 that was presented to North America last june, together with Philips Healthcare.
+
+I am currently updating and improving our brochure and need help with wording and strategic content and I was wondering if you could give me a hand? I have a draft ready to sent you for your evaluation.
+Our US office is located in Chicago and you can also contact them for more info. I would be your main contact for marketing purposes.
+
+Looking forward to hearing from you,
+Best regards,
+Clarisa
+<a id="more"></a><a id="more-5187"></a>
+AUTHOR: Clarisa Mogollon
+AUTHOR EMAIL: clarisa.mogollon@stille.se
+AUTHOR URL: http://www.stille.se/stille_eng/index.html
+SUBJECT: Email from Karma Website
+IP: 213.115.23.204
+Array
+(
+    [Name] =&gt; Clarisa Mogollon
+    [Email] =&gt; clarisa.mogollon@stille.se
+    [Website] =&gt; http://www.stille.se/stille_eng/index.html
+    [Comment] =&gt; Also check (as this is the subject of my reason contacting you):
+www.stille.se/imagiQ2
+
+Hi, My name is Clarisa and I am the Global Marketing Manager at Stille in Sweden. I came across your webpage via LinkedIn as we share one group for medical copywriters.
+
+Stille is one of the oldest medical device companies in the world, founded in 1841 and has 2 business areas: Surgical instruments and Patient positioning. 
+
+I am looking for a freelance copywriter, to better communicate our value proposition to our customers, especially  for our recently launched Surgical imaging table, the Stille imagiQ2 that was presented to North America last june, together with Philips Healthcare.
+
+I am currently updating and improving our brochure and need help with wording and strategic content and I was wondering if you could give me a hand? I have a draft ready to sent you for your evaluation.
+Our US office is located in Chicago and you can also contact them for more info. I would be your main contact for marketing purposes.
+
+Looking forward to hearing from you,
+Best regards,
+Clarisa
+
+)

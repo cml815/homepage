@@ -1,0 +1,36 @@
+--- 
+wordpress_id: 4758
+author_login: cleopold
+layout: page
+comments: []
+
+author: leopold
+title: Home not
+published: true
+tags: []
+
+date: 2011-08-29 16:43:17 -04:00
+categories: []
+
+author_email: caroline.leopold@gmail.com
+wordpress_url: http://denzeldesigns.org/?page_id=4699
+author_url: http://www.leopoldwriting.com
+status: publish
+---
+<strong>Grant Writing </strong>
+
+<strong></strong>Outstanding grant proposals integrate research, innovation, and public benefit in language that review committees understand.
+
+<strong>Copywriting &amp; Editing</strong>
+
+<strong></strong>Manuscripts, white papers, articles, and blog posts that deliver logical, concise, and interesting copy.
+
+<strong>Lit Reviews &amp; Searches</strong>
+
+Targeted searches to find published articles, grant opportunities, public data, and more.
+<strong></strong>
+
+<strong>Training &amp; Education</strong>
+
+CME and education workshops on grant, research, and writing topics.
+<pre></pre>

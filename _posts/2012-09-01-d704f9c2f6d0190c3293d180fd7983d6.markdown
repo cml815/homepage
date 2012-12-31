@@ -1,0 +1,53 @@
+--- 
+wordpress_id: 5192
+layout: feedback
+comments: []
+
+title: Carol Vincent - 2012-09-01 11:17:13
+excerpt: |
+  Good morning Ms. Leopold,
+  
+  I am a Penn School of Nursing doctoral student. I am writing up my study and was wondering if you also do editing.  I have a short time line. I have three chapters written. The 4th and 5th chapters (results and discussion) are underway. Please contact me to discuss. I am mostly having difficulty with formatting but editing would also be appreciated and necessary.
+  Thank you for your time.
+  Kind regards,
+  
+  Carol Vincent
+  (215)858-2205 mobile
+
+published: true
+tags: []
+
+date: 2012-09-01 11:17:13 -04:00
+categories: []
+
+wordpress_url: http://leopoldwriting.com/?post_type=feedback&p=5192
+status: publish
+---
+Good morning Ms. Leopold,
+
+I am a Penn School of Nursing doctoral student. I am writing up my study and was wondering if you also do editing.  I have a short time line. I have three chapters written. The 4th and 5th chapters (results and discussion) are underway. Please contact me to discuss. I am mostly having difficulty with formatting but editing would also be appreciated and necessary.
+Thank you for your time.
+Kind regards,
+
+Carol Vincent
+(215)858-2205 mobile
+<a id="more"></a><a id="more-5192"></a>
+AUTHOR: Carol Vincent
+AUTHOR EMAIL: vincentc@email.chop.edu
+AUTHOR URL: 
+SUBJECT: Email from Karma Website
+IP: 159.14.242.254
+Array
+(
+    [Name] =&gt; Carol Vincent
+    [Email] =&gt; vincentc@email.chop.edu
+    [Website] =&gt; 
+    [Comment] =&gt; Good morning Ms. Leopold,
+
+I am a Penn School of Nursing doctoral student. I am writing up my study and was wondering if you also do editing.  I have a short time line. I have three chapters written. The 4th and 5th chapters (results and discussion) are underway. Please contact me to discuss. I am mostly having difficulty with formatting but editing would also be appreciated and necessary.
+Thank you for your time.
+Kind regards,
+
+Carol Vincent
+(215)858-2205 mobile
+)
