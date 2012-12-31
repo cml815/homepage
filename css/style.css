@@ -6,6 +6,11 @@
 
 /* Portfolio styling */
 
+footer .box {
+
+  padding-left: 40px;
+}
+
 ul.entries { 
 
   padding: 0;
@@ -376,6 +381,7 @@ min-height: 800px;
 footer  {
 
   background-color: gray;
+
 }
 
 
@@ -385,55 +391,41 @@ footer  {
   color: white;
 }
 
-.footer-col {
+/*Social Icons */
 
-  display:inline;
-  float: left;
-  width: 33%;
-  padding: 2%;
+
+ul.social {
+
+  display: inline-block;
 
 }
 
-.footer-col p {
+ul.social li {
 
-font-size: 16px
+float: left;
+margin-right: 2px;
+
 }
 
-.footer-col a {
-
-color: gray;
-font-size: 16px;}
-
-/* small print */
+/* Copyright and small print */
 
 .small-print {
 
-  position: bottom;
+  position: bottom; }
 
-  
+section .small-print {
+
+  display: inline;
+
 }
 
 .small-print p {
   
   color: gray;
+  font-size: 14px;
   margin: 0 auto;
-  font-size: 14px
 
 }
-
-
-
-/*Opera Fix Footer 
-
-body:before {
-  content:"";
-  height:100%;
-  float:left;
-  width:0;
-  margin-top:-32767px;/
-}
-
-*/
 
 
 /* NAVIGATION  */
