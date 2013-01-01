@@ -4,7 +4,7 @@
 
 /* ID Selectors */
 
-/* Portfolio styling */
+/* Portfolio */
 
 footer .box {
 
@@ -60,12 +60,38 @@ ul.entries {
   filter:alpha(opacity=30);
 }
 
+.port-container {
 
-body {
+  height: relative;
+  width: 100%;
+  overflow: hidden;
+}
 
-  background-color: transparent;
+.port-container > p {
+
+  font-size: 18px;
+  line-height: 1.4em;
+  margin-left: 10px;
+}
+
+ul.block {
+
+  display: inline-block;
+  margin-left: 20px;
+  border: 2px dotted yellow;
+}
+
+ul.block li p {
+
+  font-size: 16px;
+  line-height: 1em:
 
 }
+
+ul.block li {
+
+  font-size: 16px;
+  line-height: 1em:
 
 .marquee {
 
@@ -178,12 +204,23 @@ height: 600px;
 
 }
 
+/* About panel */
+
 .top h1 {
 
 color: orange;
 font-size: 30px;
-line-height: 1.0em;
-margin-bottom: 2em;
+line-height: 1.5em;
+margin-bottom: 24px;
+}
+
+.top h2 {
+
+color: white;
+text-transform: lowercase;
+font-size: 24px;
+line-height: 1.5em;
+margin-bottom: 24px;
 }
 
 .top p {
@@ -191,7 +228,7 @@ margin-bottom: 2em;
   padding: 0 50px;
   color: white;
   font-size: 16px;
-  line-height: 1.4em;
+  line-height: 1.5em;
 }
 
 }

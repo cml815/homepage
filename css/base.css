@@ -19,7 +19,7 @@ body {
 	height: 100%;
 	width: 100%;
 	margin-top: 60px;
-  background-image: url(_site/img/background.png);
+  background-image: url("img/gear1.png");
   background-repeat: no repeat;
   background-position: right top;
 }
