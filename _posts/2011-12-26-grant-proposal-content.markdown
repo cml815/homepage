@@ -14,7 +14,7 @@ tags:
 - web site
 - grant advice
 - writing advice
-date: 2011-12-26 20:21:07 -05:00
+date: 2011-12-26 
 categories: 
 - Writing Advice
 author_email: caroline.leopold@gmail.com

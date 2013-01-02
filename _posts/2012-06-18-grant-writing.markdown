@@ -9,7 +9,7 @@ title: Write
 published: true
 tags: []
 
-date: 2012-06-18 09:17:57 -04:00
+date: 2012-06-18 
 categories: []
 
 author_email: caroline.leopold@gmail.com

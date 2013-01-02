@@ -11,7 +11,7 @@ tags:
 - writing life
 - writing craft
 - personal
-date: 2011-12-12 05:47:23 -05:00
+date: 2011-12-12 
 categories: 
 - Grant Basics
 author_email: caroline.leopold@gmail.com

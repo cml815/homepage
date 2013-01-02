@@ -9,7 +9,7 @@ title: Google for Grants?
 published: true
 tags: []
 
-date: 2012-05-29 09:16:12 -04:00
+date: 2012-05-29 
 categories: 
 - Prospecting - Search for Funders
 author_email: caroline.leopold@gmail.com

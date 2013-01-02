@@ -12,7 +12,7 @@ tags:
 - hourly rate
 - pay
 - freelance calculator
-date: 2012-01-15 23:37:43 -05:00
+date: 2012-01-15 
 categories: 
 - Grant Writing Careers
 author_email: caroline.leopold@gmail.com

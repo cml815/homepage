@@ -9,7 +9,7 @@ title: Reflection on good writing
 published: true
 tags: []
 
-date: 2012-07-07 18:31:33 -04:00
+date: 2012-07-07 
 categories: []
 
 author_email: caroline.leopold@gmail.com

@@ -11,7 +11,7 @@ tags:
 - grant writing
 - return on investment
 - writing fees
-date: 2012-01-01 19:02:33 -05:00
+date: 2012-01-01 
 categories: 
 - Grant Writing Careers
 author_email: caroline.leopold@gmail.com

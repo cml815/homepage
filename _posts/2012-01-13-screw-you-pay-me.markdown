@@ -12,7 +12,7 @@ tags:
 - lawyer
 - payment
 - writing business
-date: 2012-01-13 12:44:25 -05:00
+date: 2012-01-13 
 categories: 
 - Grant Writing Careers
 author_email: caroline.leopold@gmail.com

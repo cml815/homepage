@@ -9,7 +9,7 @@ title: Small Business Innovation Research (SBIR) Explained
 published: true
 tags: []
 
-date: 2012-01-16 15:48:00 -05:00
+date: 2012-01-16 
 categories: 
 - SBIR
 author_email: caroline.leopold@gmail.com

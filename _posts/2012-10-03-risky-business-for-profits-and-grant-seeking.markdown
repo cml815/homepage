@@ -10,7 +10,7 @@ published: true
 tags: 
 - business grants
 - SBA
-date: 2012-10-03 12:03:08 -04:00
+date: 2012-10-03 
 categories: 
 - Business Grants
 author_email: caroline.leopold@gmail.com

@@ -11,7 +11,7 @@ tags:
 - pcori
 - pcor
 - patient-centered outcomes research
-date: 2012-06-06 22:02:08 -04:00
+date: 2012-06-06 
 categories: 
 - Grant Opportunity Watch
 author_email: caroline.leopold@gmail.com

@@ -6,9 +6,66 @@
 
 /* Portfolio */
 
-footer .box {
+body {
 
-  padding-left: 40px;
+   background-image: url(img/"noisy-grid.png");
+}
+
+.posts { display: inline-block;}
+
+.posts li { margin-bottom: 24px}
+
+.posts li a { }
+
+/* Blog */
+
+.box-centered { 
+
+  width: 80%;
+  margin: 0 auto;
+  background-color:;
+
+}
+
+.post-container {
+
+  margin: 20px 20px 0 0;
+  border: 5px dotted blue;
+  overflow: auto;
+}
+
+.thumb-post { 
+
+  float: left;
+
+  }
+
+.thumb-post img: {
+
+  display: block;
+
+}
+
+.post-content {
+
+  margin: 16px 0 24px 90px;
+
+} 
+
+.post-date h5 {
+
+line-height: 1em;
+
+}
+
+.post h2 {
+
+  line-height: 1.3em;
+}
+
+ul.posts {
+
+  list-style: none;
 }
 
 /* Porfolio Section */
@@ -62,15 +119,17 @@ ul.entries {
 
 .port-container {
 
+  padding-left: 20px;
   height: relative;
   width: 100%;
   overflow: hidden;
+  background-color: #253170;
+  padding-top: 24px;
 }
 
 .port-container > p {
 
   font-size: 18px;
-  line-height: 1.4em;
   margin-left: 10px;
 }
 
@@ -78,29 +137,40 @@ ul.block {
 
   display: inline-block;
   margin-left: 20px;
-  border: 2px dotted yellow;
+  
 }
 
-ul.block li p {
+.block h4 {
 
-  font-size: 16px;
-  line-height: 1em:
+   font-family: "chapparal pro", Arial, Helvetica;
+  line-height: 1em;
+  margin-bottom: 10px;
+  margin-top: 16px;
+}
+
+ul.block p {
+
+  font-family: "chapparal pro", Arial, Helvetica;
+  font-size: 18px;
+  line-height: 1em;
+  margin-bottom: 10px;
 
 }
 
-ul.block li {
+.block:last-child { 
 
-  font-size: 16px;
-  line-height: 1em:
+  margin-bottom: 16px
+
+}
+
+/* Home Page */
 
 .marquee {
 
   width: 100%;
   min-height: 100%;
   display: inline-block;
-  height: 500px;
 }
-
 
 .main {
 
@@ -109,29 +179,34 @@ ul.block li {
   padding-left: 100px;
   width: 60%;
   height: 400px;
-  border: 1px solid black;
 
 }
 
-.main h1 {
+.main h2 {
 
-}
-
-.main p {
-
-  font-size: 2em;
-  line-height: 1.5em;
+  line-height: 2.4em;
   font-weight: bold;
+  padding-left: 150px;
 }
 
 .call {
 
   clear: both;
-  width: 90%;
-  height: 72px;
-  background-color: orange;
-  margin: 0 auto;
+  width: 100%;
+  height: 188px;
+  background-color: rgba(255, 138, 1, 0.7);
 
+}
+
+.call h2 {
+
+  margin: 0 auto;
+  padding: 18px 0px 12px 50px;
+}
+
+.call h2 a {
+
+  margin-left: 150px;
 }
 
 
@@ -144,7 +219,6 @@ ul.block li {
   overflow: hidden;
   width: 40%;
   height: 400px;
-  border: 1px solid red;
 
 }
 
@@ -158,7 +232,7 @@ ul.block li {
 
 .main .button {
 
-  line-height: 4em;
+  line-height: 32px;
   padding-top: 2%; /* temp need to fix the button itself */
 }
 
@@ -177,7 +251,7 @@ ul.block li {
   height: relative;
 }
 
-.portfolip h1 { 
+.portfoli0 h1 { 
 
 text-align: center;
 
@@ -242,7 +316,6 @@ margin-bottom: 24px;
 .jumbo { 
 
   height: 600px;
-  border: 2px solid red;
   text-align: inline-block;
   }
 
@@ -386,6 +459,11 @@ footer  {
 
 }
 
+footer .box {
+
+  padding-left: 40px;
+}
+
 
 .contact p {
   font-size: 16px;
@@ -513,28 +591,221 @@ nav li:last-child a { border: none; }
 
 /* Contact Form */
 
-input.ourInputBox:focus{
- -webkit-transition:background-color 0.5s linear;
- background:#CCC;
+/* Contact Form */
+
+#contact-form {
+  background-color:#F2F7F9;
+  width:465px;
+  padding:20px;
+  margin: 50px auto;  
+  border: 6px solid #8FB5C1;
+  -moz-border-radius:15px;
+  -webkit-border-radius:15px;
+  border-radius:15px;
+  position:relative;
 }
 
-/* Media Queries - Do this later - navbar - http://designshack.net/articles/css/code-a-responsive-navigation-menu/*/ 
-
-@media only screen and (max-width : 930px),
-only screen and (max-device-width : 930px){
-    nav li a {
-        width: 25%;
-        border-bottom: 1px solid #fff;
-        font: 400 11px/1.4 'Cutive', Helvetica, Verdana, Arial, sans-serif;
-    }
-     
-    nav li:last-child a, nav li:nth-child(4) a {
-        border-right: none;
-    }
-     
-    nav li:nth-child(5) a, nav li:nth-child(6) a, nav li:nth-child(7) a, nav li:nth-child(8) a {
-        border-bottom: none;
-    }
+#contact-form h1 {
+  font-size:42px;
 }
 
-/
+#contact-form h2 {
+  margin-bottom:15px;
+  font-style:italic;
+  font-weight:normal;
+}
+
+#contact-form input, 
+#contact-form select, 
+#contact-form textarea, 
+#contact-form label {
+  font-size:15px;
+  margin-bottom:2px;
+}
+
+#contact-form input, 
+#contact-form select, 
+#contact-form textarea {
+  width:450px;
+  border: 1px solid #CEE1E8;
+  margin-bottom:20px;
+  padding:4px;
+}
+
+#contact-form input:focus, 
+#contact-form select:focus, 
+#contact-form textarea:focus {
+  border: 1px solid #AFCDD8;
+  background-color: #EBF2F4;
+}
+
+#contact-form textarea {
+  height:150px;
+  resize: none;
+}
+
+#contact-form label {
+  display:block;
+}
+
+#contact-form .required {
+  font-weight:bold;
+  color:#F00; 
+}
+
+#contact-form #submit-button {
+  width: 100px;
+  background-color:#333;
+  color:#FFF;
+  border:none;
+  display:block;
+  float:right;
+  margin-bottom:0px;
+  margin-right:6px;
+  background-color:#8FB5C1;
+  -moz-border-radius:8px;
+}
+
+#contact-form #submit-button:hover {
+  background-color: #A6CFDD;
+}
+
+#contact-form #submit-button:active {
+  position:relative;
+  top:1px;
+}
+
+#contact-form #loading {
+  width:32px;
+  height:32px;
+  background-image:url(../img/loading.gif);
+  display:block;
+  position:absolute;
+  right:130px;
+  bottom:16px;
+  display:none;
+}
+
+#errors {
+  border:solid 1px #E58E8E;
+  padding:10px;
+  margin:25px 0px;
+  display:block;
+  width:437px;
+  -webkit-border-radius:8px;
+  -moz-border-radius:8px;
+  border-radius:8px;
+  background:#FFE6E6 url(../img/cancel_48.png) no-repeat 405px center;
+  display:none;
+}
+
+#errors li {
+  padding:2px;
+  list-style:none;  
+}
+
+#errors li:before {
+  content: ' - '; 
+}
+
+#errors #info {
+  font-weight:bold;
+}
+
+#errors #info:before {
+  content: '';  
+}
+
+#success {
+  border:solid 1px #83D186;
+  padding:25px 10px;
+  margin:25px 0px;
+  display:block;
+  width:437px;
+  -webkit-border-radius:8px;
+  -moz-border-radius:8px;
+  border-radius:8px;
+  background:#D3EDD3 url(../img/accepted_48.png) no-repeat 405px center;
+  font-weight:bold;
+  display:none;
+}
+
+#errors.visible, #success.visible {
+  display:block;  
+}
+
+#req-field-desc {
+  font-style:italic;
+}
+
+/* Remove box shadow firefox, chrome and opera put around required fields. It looks rubbish. */
+input:required, textarea:required {
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  -o-box-shadow:none;
+  box-shadow:none;
+}
+
+/* Normalize placeholder styles */
+
+/* chrome, safari */
+::-webkit-input-placeholder {
+  color:#CCC;
+  font-style:italic;
+}
+
+/* mozilla */
+input:-moz-placeholder, textarea:-moz-placeholder {
+  color:#CCC;
+  font-style:italic;
+}
+
+/* ie (faux placeholder) */
+input.placeholder-text, textarea.placeholder-text  { 
+  color:#CCC;
+  font-style:italic;
+}
+
+
+
+
+.ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
+.hidden { display: none; visibility: hidden; }
+.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
+.invisible { visibility: hidden; }
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+
+@media all and (orientation:portrait) {
+
+}
+
+@media all and (orientation:landscape) {
+
+}
+
+@media screen and (max-device-width: 480px) {
+
+  /* html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } */
+}
+
+
+@media print {
+  * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important;
+  -ms-filter: none !important; } 
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+  a[href]:after { content: " (" attr(href) ")"; }
+  abbr[title]:after { content: " (" attr(title) ")"; }
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  thead { display: table-header-group; }
+  tr, img { page-break-inside: avoid; }
+  @page { margin: 0.5cm; }
+  p, h2, h3 { orphans: 3; widows: 3; }
+  h2, h3{ page-break-after: avoid; }
+}
+

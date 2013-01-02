@@ -9,7 +9,7 @@ title: Grant Opportunity Watch
 published: true
 tags: []
 
-date: 2012-06-03 16:06:45 -04:00
+date: 2012-06-03 
 categories: 
 - Grant Basics
 author_email: caroline.leopold@gmail.com

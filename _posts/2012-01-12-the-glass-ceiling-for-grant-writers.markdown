@@ -9,7 +9,7 @@ title: The Glass Ceiling for Grant Writers
 published: true
 tags: []
 
-date: 2012-01-12 00:50:55 -05:00
+date: 2012-01-12 
 categories: 
 - Grant Writing Careers
 author_email: caroline.leopold@gmail.com

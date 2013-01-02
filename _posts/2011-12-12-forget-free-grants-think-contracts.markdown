@@ -13,7 +13,7 @@ tags:
 - free grants
 - contracts
 - public benefits
-date: 2011-12-12 04:40:14 -05:00
+date: 2011-12-12
 categories: 
 - Grant Basics
 author_email: caroline.leopold@gmail.com

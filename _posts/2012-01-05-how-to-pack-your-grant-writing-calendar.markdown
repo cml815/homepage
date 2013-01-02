@@ -9,7 +9,7 @@ title: Manage the Grant Writing Calendar
 published: true
 tags: []
 
-date: 2012-01-05 02:42:23 -05:00
+date: 2012-01-05 
 categories: 
 - Grant Basics
 author_email: caroline.leopold@gmail.com

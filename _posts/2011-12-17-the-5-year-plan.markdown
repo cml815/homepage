@@ -12,7 +12,7 @@ tags:
 - predictions
 - grant writing
 - goals
-date: 2011-12-17 22:33:13 -05:00
+date: 2011-12-17 
 categories: 
 - Grant Basics
 author_email: caroline.leopold@gmail.com

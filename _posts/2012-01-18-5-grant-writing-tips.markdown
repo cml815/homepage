@@ -9,7 +9,7 @@ title: Consumer's Guide to Understanding Research
 published: true
 tags: []
 
-date: 2012-01-18 18:10:02 -05:00
+date: 2012-01-18 
 categories: 
 - Research in Media
 author_email: caroline.leopold@gmail.com

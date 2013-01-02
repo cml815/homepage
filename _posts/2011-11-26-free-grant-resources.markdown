@@ -1,15 +1,9 @@
---- 
-wordpress_id: 16
-author_login: cleopold
-layout: page
-comments: []
-
-author: leopold
+---
+layout: blog
 title: Hire Me
-published: true
 tags: []
 
-date: 2011-11-26 03:27:14 -05:00
+date: 2011-11-26 
 categories: []
 
 author_email: caroline.leopold@gmail.com

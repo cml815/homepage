@@ -10,7 +10,7 @@ published: true
 tags: 
 - managed care
 - Florida
-date: 2012-04-01 18:36:40 -04:00
+date: 2012-04-01 
 categories: 
 - Blog
 author_email: caroline.leopold@gmail.com

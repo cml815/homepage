@@ -9,7 +9,7 @@ title: How to write with purpose
 published: true
 tags: []
 
-date: 2012-06-13 13:15:34 -04:00
+date: 2012-06-13 
 categories: []
 
 author_email: caroline.leopold@gmail.com

@@ -41,7 +41,7 @@ p {
   	font-weight: 400;
   	font-size: 16px;
   	line-height: 1.5em;
-    margin-bottom: 24px;
+    margin-bottom: 16px;
   	font-family: "ff-meta-serif-web-pro"; /* 'Libre Baskerville' */
   	font-style: normal;
   	font-variant: normal;
@@ -82,7 +82,7 @@ ul {
 
 a:link { color: blue; text-decoration: none}
 a:visited { color: purple; }
-a:hover { color: white;}
+a:hover { color: gray;}
 a:active { color: orange; }
 
 /* Blockquotes - Credit to http://css-tricks.com/examples/Blockquotes/ */

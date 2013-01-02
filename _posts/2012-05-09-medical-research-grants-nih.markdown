@@ -10,7 +10,7 @@ published: true
 tags: 
 - medical grants
 - research grants
-date: 2012-05-09 12:11:39 -04:00
+date: 2012-05-09 
 categories: 
 - Medical research grants
 author_email: caroline.leopold@gmail.com

@@ -9,7 +9,7 @@ title: What are grants?
 published: true
 tags: []
 
-date: 2012-06-17 12:29:09 -04:00
+date: 2012-06-17 
 categories: []
 
 author_email: caroline.leopold@gmail.com

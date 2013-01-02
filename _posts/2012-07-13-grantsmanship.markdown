@@ -9,7 +9,7 @@ title: Grantsmanship
 published: true
 tags: []
 
-date: 2012-07-13 18:33:43 -04:00
+date: 2012-07-13 
 categories: 
 - Blog
 - Grantsmanship

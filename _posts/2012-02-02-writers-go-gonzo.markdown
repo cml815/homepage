@@ -9,7 +9,7 @@ title: Writers, Go Gonzo
 published: true
 tags: []
 
-date: 2012-02-02 16:46:30 -05:00
+date: 2012-02-02
 categories: 
 - Blog
 author_email: caroline.leopold@gmail.com

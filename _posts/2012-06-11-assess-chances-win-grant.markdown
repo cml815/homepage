@@ -11,7 +11,7 @@ tags:
 - grant readiness
 - assess odds
 - grant elibility
-date: 2012-06-11 09:41:27 -04:00
+date: 2012-06-11 
 categories: 
 - Guides &amp; Tools
 author_email: caroline.leopold@gmail.com

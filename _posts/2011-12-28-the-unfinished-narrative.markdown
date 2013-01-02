@@ -12,7 +12,7 @@ tags:
 - proposal
 - policy
 - editing
-date: 2011-12-28 03:20:43 -05:00
+date: 2011-12-28 
 categories: 
 - Grant Basics
 author_email: caroline.leopold@gmail.com
