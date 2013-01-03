@@ -2,19 +2,70 @@
 layout: default
 title: Blog
 ---
-<div id="work" class="blog-wrapper">
+<div id="blog" class="blog-wrapper">
   <section>
-    <h1>Blog</h1>
+    <div class="banner">
+      <h1>Blog</h1>
+    </div>
   </section>
-  <section class="blog-list">
-    <ul class="posts">
+  <aside id="featured" class="body">   
+   <figure>
+     <img src="http://placehold.it/72x72" alt="Sample Image">
+     <hgroup>
+      <h1>Featured Article</h1>
+      <h2><a href="/">Sample Title</a></h2>
+      <p>Here is a twenty word or so description of amazingness to come. Read all about it.<a href="http://dev.w3.org/html5/spec/Overview.html" rel="external">HTML5</a> and <a href="http://www.w3.org/TR/css3-roadmap/" rel="external">CSS3</a> website today!</p>
+  </aside>
+  <section class="box col-9">
+    <ol class="posts">
     {% for post in site.posts %}
       <li>
-        <img src="{{ post.image }}" height="200" width="200" />
+        <div class="thumbnail">
+        <img src="{{ post.image }}" height="80px" width="80px" />
+      </div>
+      <div class="title">
         <a href="{{ post.url }}"</a>
         <h3>{{ post.title }}</h3>
-      </li>
+      </div>
+        <div class="abstract">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis nunc vitae libero iaculis elementum. Nullam et justo <a href="#">Link here</a> dapibus blandit nec et leo. Ut ut malesuada tellus.</p>
+      </div>
+    </li>
       {% endfor %}
-    </ul>
+    </ol>
   </section>
+    <section id="extras">
+      <div class="bookmarks">
+        <h2>Bookmarks</h2>
+        <ul>
+          <li><a href="#" rel="external">HTML5 Doctor</a></li>
+          <li><a href="#" rel="external">HTML5 Spec (working draft)</a></li> 
+          <li><a href="#" rel="external">Smashing Magazine</a></li>  
+          <li><a href="#" rel="external">W3C</a></li> 
+          <li><a href="#" rel="external">Wordpress</a></li> 
+          <li><a href="#" rel="external">Wikipedia</a></li>  
+          <li><a href="#" rel="external">HTML5 Doctor</a></li> 
+          <li><a href="#" rel="external">HTML5 Spec (working draft)</a></li> 
+          <li><a href="#" rel="external">Smashing Magazine</a></li>  
+          <li><a href="#" rel="external">W3C</a></li> 
+          <li><a href="#" rel="external">Wordpress</a></li> 
+          <li><a href="#" rel="external">Wikipedia</a></li>  
+          <li><a href="#" rel="external">HTML5 Doctor</a></li> 
+          <li><a href="#" rel="external">HTML5 Spec (working draft)</a></li> 
+          <li><a href="#" rel="external">Smashing Magazine</a></li>  
+          <li><a href="#" rel="external">W3C</a></li> <li><a href="#" rel="external">Wordpress</a></li> 
+          <li><a href="#" rel="external">Wikipedia</a></li>  </ul> </div><!-- end bookmarks -->
+        </ul>
+      </div>
+      <div class="social"> 
+        <h2>Get Social</h2> 
+        <ul>  
+          <li><a href="http://reddit.com/u/sky_writer" rel="me">reddit</a></li> 
+          <li><a href="http://facebook.com/carolineleopold" rel="me">facebook</a></li>  
+          <li><a href="http://www.soundcloud.com/user/caroline815" rel="me">soundcloud</a></li> 
+          <li><a href="http://carolineleopold.com/feed/" rel="alternate">rss</a></li> 
+          <li><a href="http://twitter.com/caroline_leopold" rel="me">twitter</a></li>  
+        </ul> 
+      </div><!-- /.social --> 
+    </section><!-- /#extras -->
 </div>
