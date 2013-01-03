@@ -4,12 +4,128 @@
 
 /* ID Selectors */
 
+/* vcard
+
+<div id="hcard-Caroline-Leopold" class="vcard">
+ <span class="fn">Caroline Leopold</span>
+ <div class="org">Leopold Writing, LLC</div>
+ <a class="email" href="mailto:caroline.leopold@gmail.com">caroline.leopold@gmail.com</a>
+ <div class="adr">
+  <span class="locality">Philadelphia</span>
+  <span class="region"> PA</span>
+  <span class="postal-code">19104</span>
+
+  <span class="country-name">United States</span>
+ </div>
+ <div class="tel">(610) 220-7863</div>
+ <a class="url" href="xmpp:cleopold">Jabber</a>
+<div><span class="category">writer</span></div><p style="font-size:smaller;">This <a href="http://microformats.org/wiki/hcard">hCard</a> created with the <a href="http://microformats.org/code/hcard/creator">hCard creator</a>.</p>
+</div> 
+*/
+
+/* Blog */
+
+.blog-wrapper {
+
+  width: 100%;
+  height: relative;
+  display: inline-block;
+  padding: 20px 0 20px 50px;
+  border: 2px dotted black;
+}
+
+section .banner {
+
+  width: 80%;
+  margin: 0 auto;
+  background-color: orange;
+}
+
+.banner h1 {
+
+  font-size: 24px;
+  color: black;
+
+}
+
+ol.posts li img{
+
+margin-bottom: 24px;
+
+}
+
+#featured {
+
+  background: #fff; 
+  margin-bottom: 2em; 
+  overflow: hidden; 
+  padding: 20px; width: 760px;  
+  border-radius: 10px; 
+  -moz-border-radius: 10px; 
+  -webkit-border-radius: 10px;
+}
+
+#featured figure { 
+
+  border: 2px solid #eee; 
+  float: right; 
+  margin: 0.786em 2em 0 5em; 
+  width: 400px; 
+
+  } 
+
+#featured figure img {
+
+    display: block; 
+    float: right;}  
+
+#featured h2 {
+
+      color: #C74451; 
+      font-size: 1.714em; 
+      margin-bottom: 0.333em;
+
+      } 
+#featured h3 {
+
+  font-size: 1.429em; 
+  margin-bottom: .5em;}  
+
+#featured h3 a:link, #featured h3 a:visited {
+
+  color: #000305; 
+  text-decoration: none;
+
+  } 
+
+#featured h3 a:hover, #featured h3 a:active {
+
+  color: #fff;
+}
+
+.block {
+
+  display: inline-block;
+  background-color: yellow;
+  margin-left: 100px;
+  padding-left: 20px;
+  margin-right: 48px;
+  float:left;
+}
+
+.sidebar {
+
+  display: inline-block;
+  clear: both;
+
+}
+
+.extras {
+
+}
+
 /* Portfolio */
 
-body {
-
-   background-image: url(img/"noisy-grid.png");
-}
 
 .posts { display: inline-block;}
 
