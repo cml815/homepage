@@ -1,10 +1,7 @@
 --- 
-wordpress_id: 5012
-author_login: cleopold
 layout: post
 comments: []
 
-author: leopold
 title: Guide on grant eligibility
 published: true
 tags: 
@@ -13,11 +10,8 @@ tags:
 - grant elibility
 date: 2012-06-11 
 categories: 
-- Guides &amp; Tools
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=5012
-author_url: http://www.leopoldwriting.com
-status: publish
+- Guides
+-Tools
 ---
 The most frequent reason grant applications are declined is because of eligibility. Or that the application was not a good fit for the funding opportunity. In the rush to meet a deadline, it is easy to miss the fine print about eligibility. Here are the major criteria to assess your chances among the competition.
 
@@ -65,4 +59,3 @@ There is an adage that "people give to people," which is no different in the gra
 
 Do your best effort to contact the grantmaker. Always. There are many, "Yes, but" retorts for this, but simply do it. Even the federal government picks up the phone, although you may be spared that because they usually have teleconferences and are open to taking questions by email. The NIH is especially helpful and they want you to call a Program Officer. They beg you to call so that you have a better shot at making an appropriate submission. There are some procedures of neutrality to keep in mind. In many state and local government bidding processes, they have limits about what they will tell you. Get ready to have the RFP repeated to you verbatim. Don't be afraid to contact a funder - before, during, after a solicitation.
 
-&nbsp;

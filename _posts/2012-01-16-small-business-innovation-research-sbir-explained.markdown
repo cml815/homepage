@@ -1,21 +1,13 @@
 --- 
-wordpress_id: 417
-author_login: cleopold
 layout: post
-comments: []
 
 author: leopold
 title: Small Business Innovation Research (SBIR) Explained
-published: true
-tags: []
 
 date: 2012-01-16 
 categories: 
 - SBIR
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=417
-author_url: http://www.leopoldwriting.com
-status: publish
+
 ---
 Small Business Innovation Research (SBIR) grants provide short-term capital to develop a product, concept, or technology concept. SBIR are a rarity in the business world in that these are grants and not loans. The purpose of these federal funds are to encourage new marketable ideas that not only have commercial value, but have public benefit. Funding is distributed in two phases.
 

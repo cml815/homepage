@@ -1,10 +1,5 @@
 --- 
-wordpress_id: 127
-author_login: cleopold
 layout: post
-comments: []
-
-author: leopold
 title: The 5-Year Plan
 published: true
 tags: 
@@ -15,10 +10,6 @@ tags:
 date: 2011-12-17 
 categories: 
 - Grant Basics
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=127
-author_url: http://www.leopoldwriting.com
-status: publish
 ---
 <h3><a href="http://leopoldwriting.com/wp-content/uploads/2011/12/CrystalBall11.jpg"><img class="alignleft size-medium wp-image-136" title="CrystalBall1" src="http://leopoldwriting.com/wp-content/uploads/2011/12/CrystalBall11-300x240.jpg" alt="" width="210" height="168" /></a>Where will you be in 5 years?</h3>
 Whenever I hear that question, no crisp vision crystallizes in my mind. Much can happen in 5 years, including a rupture in a continuous trek toward a goal.

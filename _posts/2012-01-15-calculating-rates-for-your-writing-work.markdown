@@ -1,8 +1,6 @@
 --- 
-wordpress_id: 409
 author_login: cleopold
 layout: post
-comments: []
 
 author: leopold
 title: Calculating rates for your writing
@@ -13,12 +11,7 @@ tags:
 - pay
 - freelance calculator
 date: 2012-01-15 
-categories: 
-- Grant Writing Careers
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=409
-author_url: http://www.leopoldwriting.com
-status: publish
+
 ---
 <a href="http://leopoldwriting.com/wp-content/uploads/2012/01/man-in-street2.jpeg"><img class="aligncenter size-full wp-image-412" title="man in street" src="http://leopoldwriting.com/wp-content/uploads/2012/01/man-in-street2.jpeg" alt="" width="528" height="320" /></a>You definitely can earn a living in freelance work. Many people make a steady income in writing. What people say in public about their earnings, hours, and ease of start-up is of varying credibility. There is information out there about how hard your fellow writers are working and what they are earning.
 <h4>Writing Pays Well, but not <strong>That</strong> Well</h4>

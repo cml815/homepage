@@ -1,21 +1,13 @@
 --- 
-wordpress_id: 335
-author_login: cleopold
 layout: post
 comments: []
 
 author: leopold
 title: Manage the Grant Writing Calendar
 published: true
-tags: []
 
 date: 2012-01-05 
-categories: 
-- Grant Basics
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=335
-author_url: http://www.leopoldwriting.com
-status: publish
+
 ---
 <a href="http://leopoldwriting.com/wp-content/uploads/2012/01/FoulBall1.jpg"><img class="alignleft size-medium wp-image-337" title="FoulBall" src="http://leopoldwriting.com/wp-content/uploads/2012/01/FoulBall1-300x200.jpg" alt="" width="300" height="200" /></a>The key to securing maximum funding is setting priorities and timing your grant writing calendar properly. A writing calendar can be set at least one year in advance, with room to add major federal grant opportunities that arise. Deadlines vary, although they tend to cluster about 6-8 weeks before the end of the government (September 30th), fiscal (July 1st) and calendar (December 31st) years.
 

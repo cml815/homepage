@@ -1,12 +1,6 @@
 --- 
-wordpress_id: 88
-author_login: cleopold
 layout: post
 comments: []
-
-author: leopold
-title: Work for your "Easy Grants"
-published: true
 tags: 
 - free money
 - grants
@@ -14,12 +8,6 @@ tags:
 - contracts
 - public benefits
 date: 2011-12-12
-categories: 
-- Grant Basics
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=88
-author_url: http://www.leopoldwriting.com
-status: publish
 ---
 [caption id="attachment_91" align="alignleft" width="233" caption="Beware of easy money scams"]<a href="http://leopoldwriting.com/wp-content/uploads/2011/12/stackmoney.jpg"><img class="size-full wp-image-91  " title="Stack of Money" src="http://leopoldwriting.com/wp-content/uploads/2011/12/stackmoney.jpg" alt="Pile of cash" width="233" height="278" /></a>[/caption]
 

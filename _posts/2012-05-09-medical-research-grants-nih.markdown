@@ -1,6 +1,4 @@
 --- 
-wordpress_id: 544
-author_login: cleopold
 layout: post
 comments: []
 
@@ -13,10 +11,7 @@ tags:
 date: 2012-05-09 
 categories: 
 - Medical research grants
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=544
-author_url: http://www.leopoldwriting.com
-status: publish
+
 ---
 <a href="http://leopoldwriting.com/wp-content/uploads/2012/05/Sign-screenshot.png"><img class="alignleft size-thumbnail wp-image-545" title="Sign screenshot" src="http://leopoldwriting.com/wp-content/uploads/2012/05/Sign-screenshot-150x150.png" alt="" width="150" height="150" /></a>The economic collapse in 2008 caused concern among medical researchers. Many feared that medical research and innovation would grind to a halt and they would need to close their labs and studies. The America Recovery and Reinvestment Act of 2009 (aka "Stimulus") provided $10 billion in additional research funding, but that money is exhausted. How can researchers forge ahead with their work in times of increased funding for flat or shrinking research dollars?
 

@@ -1,10 +1,6 @@
 --- 
-wordpress_id: 194
-author_login: cleopold
 layout: post
 comments: []
-
-author: leopold
 title: How grant proposals shine despite Arial 11pt design
 published: true
 tags: 
@@ -15,12 +11,7 @@ tags:
 - grant advice
 - writing advice
 date: 2011-12-26 
-categories: 
-- Writing Advice
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=194
-author_url: http://www.leopoldwriting.com
-status: publish
+
 ---
 Marketing writers adopt the latest methods to attract attention and build an audience. Their goal is to have the reader spend enough time on the communication to take any sort of action: subscribe, comment, buy, donate, etc.
 

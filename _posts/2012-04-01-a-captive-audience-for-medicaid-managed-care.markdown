@@ -1,8 +1,5 @@
 --- 
-wordpress_id: 530
-author_login: cleopold
 layout: post
-comments: []
 
 author: leopold
 title: A captive audience for Medicaid managed care
@@ -11,12 +8,8 @@ tags:
 - managed care
 - Florida
 date: 2012-04-01 
-categories: 
-- Blog
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=530
-author_url: http://www.leopoldwriting.com
-status: publish
+
+
 ---
 <a href="http://leopoldwriting.com/wp-content/uploads/2012/04/heart-steth.jpg"><img class="alignleft size-medium wp-image-531" title="heart steth" src="http://leopoldwriting.com/wp-content/uploads/2012/04/heart-steth-300x200.jpg" alt="" width="300" height="200" /></a>
 

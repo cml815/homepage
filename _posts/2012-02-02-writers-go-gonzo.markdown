@@ -1,21 +1,12 @@
 --- 
-wordpress_id: 451
-author_login: cleopold
 layout: post
-comments: []
-
-author: leopold
 title: Writers, Go Gonzo
-published: true
 tags: []
 
 date: 2012-02-02
 categories: 
 - Blog
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=451
-author_url: http://www.leopoldwriting.com
-status: publish
+
 ---
 <blockquote>When the going gets weird, the weird turn pro. - Hunter Thompson in<a title="Hunter Thompson Quote" href="http://www.rollingstone.com/culture/news/fear-and-loathing-at-the-superbowl-no-rest-for-the-wretched-19730215"> article published by Rolling Stone, 1973</a>
 

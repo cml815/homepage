@@ -1,10 +1,5 @@
 --- 
-wordpress_id: 392
-author_login: cleopold
 layout: post
-comments: []
-
-author: leopold
 title: Screw You, Pay Me
 published: true
 tags: 
@@ -13,12 +8,7 @@ tags:
 - payment
 - writing business
 date: 2012-01-13 
-categories: 
-- Grant Writing Careers
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=392
-author_url: http://www.leopoldwriting.com
-status: publish
+
 ---
 <a href="http://vimeo.com/22053820?utm_source=swissmiss">F*ck You, Pay Me</a>The provocative headline of this post comes from the title of a talk, Mike Monteiro, Design Director and Co-founder of Mule Design Studio. The video is a riveting 40 minute "wake up" intervention to help web designers, creatives, and writers protect themselves and their work.
 

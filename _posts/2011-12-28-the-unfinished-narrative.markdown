@@ -1,8 +1,5 @@
 --- 
-wordpress_id: 249
-author_login: cleopold
 layout: post
-comments: []
 
 author: leopold
 title: The Unfinished Narrative
@@ -13,12 +10,6 @@ tags:
 - policy
 - editing
 date: 2011-12-28 
-categories: 
-- Grant Basics
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=249
-author_url: http://www.leopoldwriting.com
-status: publish
 ---
 <a href="http://leopoldwriting.com/wp-content/uploads/2011/12/typewriter.jpeg"><img class="alignright" title="typewriter" src="http://leopoldwriting.com/wp-content/uploads/2011/12/typewriter.jpeg" alt="" width="258" height="80" /></a>
 

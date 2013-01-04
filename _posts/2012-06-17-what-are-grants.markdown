@@ -1,21 +1,11 @@
 --- 
-wordpress_id: 5086
-author_login: cleopold
-layout: page
+layout: post
 comments: []
 
-author: leopold
-title: What are grants?
-published: true
-tags: []
+title: Grant process explained
 
 date: 2012-06-17 
-categories: []
 
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?page_id=5086
-author_url: http://www.leopoldwriting.com
-status: publish
 ---
 Grants are a method by which funding is distributed from one entity (grant maker or funder) to another (grantee). Grant makers are usually government agencies, corporations, or foundations. U.S. grantees are often state and local government, non-profit organizations, schools or universities, public housing agencies, businesses, and individuals.
 

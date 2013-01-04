@@ -1,21 +1,12 @@
 --- 
-wordpress_id: 5137
-author_login: cleopold
 layout: post
-comments: []
-
-author: leopold
 title: Archive for grant prospects
 published: true
 tags: []
 
 date: 2012-06-30 12:21:18 -04:00
 categories: 
-- Grant Opportunity Watch
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=5137
-author_url: http://www.leopoldwriting.com
-status: publish
+- grant prospects
 ---
 These grant opportunities have expired deadlines. Funders reopen new grant competition and release a similar or new grant opportunity. Check this page or funder web sites for updates.
 

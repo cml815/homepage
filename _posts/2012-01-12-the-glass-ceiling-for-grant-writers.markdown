@@ -1,21 +1,12 @@
 --- 
-wordpress_id: 378
-author_login: cleopold
 layout: post
-comments: []
 
 author: leopold
 title: The Glass Ceiling for Grant Writers
-published: true
-tags: []
 
 date: 2012-01-12 
 categories: 
 - Grant Writing Careers
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=378
-author_url: http://www.leopoldwriting.com
-status: publish
 ---
 <a href="http://leopoldwriting.com/wp-content/uploads/2012/01/glass-ceiling1.jpeg"><img class="aligncenter size-full wp-image-380" title="glass ceiling" src="http://leopoldwriting.com/wp-content/uploads/2012/01/glass-ceiling1.jpeg" alt="" width="493" height="117" /></a>In my early career, I talked myself into grant writing jobs despite my lack of experience. I sweated my first grants and felt like a fraud for most of the time. However, I worked solo as a grant writer. I never had skilled supervision because I was hired to fill a specialty role. My managers who were often Development Directors edited my drafts, but didn't give strategic guidance. Rarely did they point a prospect my way or give me a pep talk on how to writing an amazing logic model.
 

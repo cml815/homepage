@@ -1,21 +1,12 @@
 --- 
-wordpress_id: 441
-author_login: cleopold
 layout: post
-comments: []
 
 author: leopold
 title: Consumer's Guide to Understanding Research
 published: true
-tags: []
 
 date: 2012-01-18 
-categories: 
-- Research in Media
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=441
-author_url: http://www.leopoldwriting.com
-status: publish
+
 ---
 If you read any popular print or online magazine, there will be a sensational headline with a story about how you can change your life. The billion dollar self-help publishing industry backs many of its claims with citations of academic research. This article will provide a primer on understanding the basics of research and give ideas on how to evaluate the strength of the claims.
 

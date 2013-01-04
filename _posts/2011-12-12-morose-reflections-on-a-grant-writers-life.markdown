@@ -1,10 +1,5 @@
 --- 
-wordpress_id: 101
-author_login: cleopold
 layout: post
-comments: []
-
-author: leopold
 title: Morose Reflections on a Grant Writer's Life
 published: true
 tags: 
@@ -13,11 +8,7 @@ tags:
 - personal
 date: 2011-12-12 
 categories: 
-- Grant Basics
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=101
-author_url: http://www.leopoldwriting.com
-status: publish
+
 ---
 <a href="http://leopoldwriting.com/wp-content/uploads/2011/12/eclipse4.jpg"><img class="alignleft size-medium wp-image-106" title="eclipse" src="http://leopoldwriting.com/wp-content/uploads/2011/12/eclipse4-300x300.jpg" alt="" width="126" height="126" /></a>
 

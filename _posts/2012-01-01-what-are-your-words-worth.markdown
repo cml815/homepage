@@ -1,10 +1,7 @@
 --- 
-wordpress_id: 310
 author_login: cleopold
 layout: post
-comments: []
 
-author: leopold
 title: What Are Your Words Worth?
 published: true
 tags: 
@@ -12,12 +9,6 @@ tags:
 - return on investment
 - writing fees
 date: 2012-01-01 
-categories: 
-- Grant Writing Careers
-author_email: caroline.leopold@gmail.com
-wordpress_url: http://leopoldwriting.com/?p=310
-author_url: http://www.leopoldwriting.com
-status: publish
 ---
 <p style="text-align: center;"><a href="http://leopoldwriting.com/wp-content/uploads/2012/01/one-million.jpg"><img class="size-medium wp-image-311 aligncenter" title="one million" src="http://leopoldwriting.com/wp-content/uploads/2012/01/one-million-300x219.jpg" alt="If only I made $1 per word" width="640" height="320" /></a></p>
 <p style="text-align: left;">Have you ever wondered how many words you write in a day, week, or your entire career? Pinning down a number is difficult because I often write all day, every day, but for different purposes. When I am in a volatile discussion on a forum, easily I can write 5,000 words in a day. But that is my "fun" writing. Or maybe it's the writing I use to distract me from my real work.</p>
