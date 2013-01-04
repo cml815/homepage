@@ -391,7 +391,7 @@ margin-bottom: 24px;
 
   display: inline-block;
   width: 90%;
-  background-color: yellow;
+  background-color: #9999;
   margin-left: 100px;
   padding-left: 20px;
   margin-right: 48px;
@@ -404,7 +404,7 @@ margin-bottom: 24px;
   height: relative;
   width: 100%;
   overflow: hidden;
-  background-color: #253170;
+  background-color: default;
   padding-top: 24px;
 }
 
@@ -523,7 +523,7 @@ background-color: gray;
 
 footer  {
 
-  background-color: gray;
+  background-color: #010326; /* navy blue */
 
 }
 
