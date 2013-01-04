@@ -2,27 +2,22 @@
 @import url(grid.css);
 @import url(font.css);
 
-#wrapper {
-  min-width: 96%;
-  min-height: 100%;
-  margin: 0 auto;
-  padding-bottom: 0px;
 
+/* Portfolio page (grid) */
+
+.port-wrapper {
+
+  width: 100%;
+  padding-left: 150px;
 }
 
-* Portfolio Page */
+.entries {
 
-header {
-  padding: 0 10px;
-  overflow: hidden;
+  padding-left: 100px;
 }
 
 h2 {
   margin: 0;
-}
-
-.content {
-  padding: 10px;
 }
 
 .matrix ul {
@@ -34,7 +29,8 @@ h2 {
 ul.entries {
 
   list-style-type: none;
-   width: 100%;
+  margin: 0 auto;
+
 
 
 }
@@ -59,8 +55,6 @@ ul.entries img {
 
 }
 
-  /* width: 600px; */
-
 }
 
 ul.entries {
@@ -72,12 +66,6 @@ ul.entries li a {
   margin: 5px;
 }
 
-ul.entries li h3 {
-  position: absolute;
-  bottom: -18px;
-  left: 17px;
-  font-size: 2em;
-}
 
 ul.entries a {
   color: #ececec;
@@ -108,7 +96,10 @@ article .content {
   width: 66%;
   margin: 0 auto;
 
+}
 
+.content {
+  padding: 40px;
 }
 
 

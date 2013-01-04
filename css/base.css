@@ -76,6 +76,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f8f9', end
 
 header {}
 
+header {
+ 
+  padding: 0 10px;
+  overflow: hidden;
+}
+
 html {}
 
 nav {}

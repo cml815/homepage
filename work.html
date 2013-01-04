@@ -3,10 +3,9 @@ layout: default
 title: Portfolio
 ---
 <div id="work" class="port-wrapper">
-  <section>
-    <h1>Portfolio</h1>
-  </section>
-  <section class="portfolio">
+<section>
+  <div class="portfolio">
+     <h1>Portfolio</h1>
     <ul class="entries">
     {% for post in site.posts %}
       {% if post.category == "portfolio" %}
@@ -16,6 +15,7 @@ title: Portfolio
       {% endif %}
     {% endfor %}
     </ul>
+  </div>
   </section>
 </div>
 
