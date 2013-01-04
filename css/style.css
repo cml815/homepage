@@ -84,10 +84,13 @@ article .portfolio-entry {
 
 }
 
+h2.title { padding-left: 250px;}
+
 .portfolio-entry img {
 
- height: 100px;
- width: 100px;
+ height: 200px;
+ width: 200px;
+ margin: 0 auto;
 }
 
 article .content {
@@ -437,9 +440,6 @@ p.imgText {
   font-size: 20px;
 }
 
-
-/* About panel */
-
 .jumbo { 
 
   background-color: rgba(1, 1, 1, 0.8);
@@ -448,10 +448,20 @@ p.imgText {
   }
 
 
+
+/* About page */
+
+.page { 
+
+  background-color: rgba(1, 1, 1, 0.8);
+  height: 750px;
+  text-align: inline-block;
+  }
+
 .top h1 {
 
 color: orange;
-font-size: 30px;
+font-size: 24px;
 line-height: 1.5em;
 margin-bottom: 24px;
 }
@@ -459,8 +469,7 @@ margin-bottom: 24px;
 .top h2 {
 
 color: white;
-text-transform: lowercase;
-font-size: 24px;
+font-size: 20px;
 line-height: 1.5em;
 margin-bottom: 24px;
 }
@@ -469,8 +478,9 @@ margin-bottom: 24px;
 
   padding: 0 50px;
   color: white;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5em;
+  text-transform: normal;
 }
 
 /* Profile Image  */
