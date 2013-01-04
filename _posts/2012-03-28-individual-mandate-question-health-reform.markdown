@@ -1,6 +1,4 @@
 --- 
-wordpress_id: 519
-author_login: cleopold
 layout: post
 comments: 
 - author: Johnny A.

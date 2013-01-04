@@ -1,7 +1,7 @@
 --- 
 layout: post
+category: blog
 
-author: leopold
 title: The Unfinished Narrative
 published: true
 tags: 
@@ -11,7 +11,6 @@ tags:
 - editing
 date: 2011-12-28 
 ---
-<a href="http://leopoldwriting.com/wp-content/uploads/2011/12/typewriter.jpeg"><img class="alignright" title="typewriter" src="http://leopoldwriting.com/wp-content/uploads/2011/12/typewriter.jpeg" alt="" width="258" height="80" /></a>
 
 Often I write and send a proposal before it meets my standards of writing elegance. By necessity of deadlines, I triage the most important aspects of the proposal - the logic, evidence, and required technical elements. Word smithing a proposal through 20 finely edited rewrites is not possible. Nor is it sane. Proposal writing is a volume business with treacherously short deadlines.
 
