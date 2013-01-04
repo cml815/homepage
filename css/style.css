@@ -10,6 +10,109 @@
 
 }
 
+* Portfolio Page */
+
+header {
+  padding: 0 10px;
+  overflow: hidden;
+}
+
+h2 {
+  margin: 0;
+}
+
+.content {
+  padding: 10px;
+}
+
+.matrix ul {
+ 
+  height: relative;
+}
+
+
+ul.entries {
+
+  list-style-type: none;
+   width: 100%;
+
+
+}
+
+ul.entries li {
+
+  width: 25%;
+  height: 80px;
+  padding:20px;
+  background: #ececec;
+
+  /* position: relative;
+  margin: 20px auto;
+  width: 600px; */
+
+}
+
+ul.entries img {
+
+  width: 200px;
+  height: 200px;
+
+}
+
+  /* width: 600px; */
+
+}
+
+ul.entries {
+  list-style-type: none;
+}
+
+ul.entries li a {
+  float: left;
+  margin: 5px;
+}
+
+ul.entries li h3 {
+  position: absolute;
+  bottom: -18px;
+  left: 17px;
+  font-size: 2em;
+}
+
+ul.entries a {
+  color: #ececec;
+}
+ul.entries a:hover {
+  color: #fff;
+
+}
+
+/* Portfolio entry (individual) */
+
+article .portfolio-entry {
+
+  width: 100%;
+  background-color: orange;
+
+}
+
+.portfolio-entry img {
+
+ height: 100px;
+ width: 100px;
+}
+
+article .content {
+
+  display: block;
+  width: 66%;
+  margin: 0 auto;
+
+
+}
+
+
+
 /* Blog */
 
 article h2 {
