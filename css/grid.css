@@ -104,6 +104,11 @@ padding: 10px 0 10px 10px;
 	width: 66.67%;
 }
 
+.col-7 {
+
+  width: 58%;
+}
+
 .col-6 {
   width: 50%;
 }

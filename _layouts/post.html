@@ -1,7 +1,13 @@
 ---
-layout: blog
-title: post_entry
+layout: default
 ---
-<h2 class="content">{{page.title}}</h2>
-<img src="{{ page.image }}" />
-{{ content }}
+<article class="post">
+			<h2>{{ page.title }}</h2>
+			<h2>{{ date: %Y-%m-%d, %x}}</h2>
+			<img src="{{ page.image }}" />
+		</div>
+		<div class="content-container">
+			<p>{{ content }}</p>
+		</div>
+	<div>
+<article>

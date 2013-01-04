@@ -1,18 +1,53 @@
-/* BASE STYLES */
+/* ==Reset== */
+
+body,div,dl,dt,dd,ul,ol,li,
+h1,h2,h3,h4,h5,h6,
+pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+  margin:0;
+  padding:0;
+}
+table {
+  border-collapse:collapse;
+  border-spacing:0;
+}
+fieldset,img {
+  border:0;
+}
+
+address,caption,cite,code,dfn,em,strong,th,var {
+  font-style:normal;
+  font-weight:normal;
+}
+ol,ul {
+  list-style:none;
+}
+caption,th {
+  text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-size:100%;
+  font-weight:normal;
+}
+q:before,q:after {
+  content:'';
+}
+abbr,acronym {
+  border:0;
+}
+
+/* ==Global== */
 
 *, *:after, *:before { 
-	padding: 0;
-	margin: 0;
-	-moz-box-sizing: border-box; 
-	-webkit-box-sizing: border-box; 
-	box-sizing: border-box; 
+  padding: 0;
+  margin: 0;
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box; 
 }
 
 article, aside, figure, footer, header, hgroup, nav, section {
 	display: block;
 }
-
-html { }
 
 body {
 	
@@ -41,34 +76,33 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f8f9', end
 
 header {}
 
+html {}
+
 nav {}
 
 article {}
-
-section { }
 
 aside {}
 
 footer { }
 
+section { }
+
 p {
-	
   	font-weight: 400;
   	font-size: 16px;
   	line-height: 1.5em;
-    margin-bottom: 16px;
-  	font-family: "ff-meta-serif-web-pro"; /* 'Libre Baskerville' */
+    margin-bottom: 12px;
+  	font-family: 'Libre Baskerville'; /* "ff-meta-serif-web-pro" */
   	font-style: normal;
-  	font-variant: normal;
- 
+    	font-variant: normal;
 }
 
 h1, h2, h3, h4, h5, h6 { 
 
-  font-family: "proxima sans", sans-serif;
+  font-family: 'chapparal pro', sans-serif; /* need a more decorative sans font */
   margin-bottom: 24px;
   font-weight: bold; 
-
 }
 
 h1 { font-size: 24px; }
@@ -89,95 +123,37 @@ img {
 	width: auto\9; /* ie8 */
 }
 
-ul {
+ul, ol {
 
 	list-style: none;
 
 }
 
-a:link { color: blue; text-decoration: none}
-a:visited { color: purple; }
+a:link { color: gray; text-decoration: none}
+a:visited { color: gray; }
 a:hover { color: gray;}
 a:active { color: orange; }
 
 /* Blockquotes - Credit to http://css-tricks.com/examples/Blockquotes/ */
 
 blockquote {
-  
-  font: 1.4em/1.3em normal helvetica, sans-serif;
+  font: 14px/22px normal 'Open Sans', sans-serif;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 50px;
   padding-left: 15px;
-  border-left: 3px solid #fff;
+  border-left: 3px solid #ccc;
 } 
-
-blockquote.classic {
-  font: 14px/20px italic Times, serif;
-  padding: 8px;
-  background-color: #faebbc;
-  border-top: 1px solid #e1cc89;
-  border-bottom: 1px solid #e1cc89;
-  margin: 5px;
-  background-image: url(images/openquote1.gif);
-  background-position: top left;
-  background-repeat: no-repeat;
-  text-indent: 23px;
-  }
-
-  blockquote.classic span {
-    	display: block;
-    	background-image: url(images/closequote1.gif);
-    	background-repeat: no-repeat;
-    	background-position: bottom right;
-  	}
-
-
-blockquote.fancy {
-  font: 18px/30px normal Tahoma, sans-serif;
-  padding-top: 22px;
-  margin: 5px;
-  background-image: url(images/openquote3.gif);
-  background-position: top left;
-  background-repeat: no-repeat;
-  text-indent: 65px;
-  }
-  blockquote.fancy span {
-    display: block;
-    background-image: url(images/closequote3.gif);
-    background-repeat: no-repeat;
-    background-position: bottom right;
-} 
-
-blockquote.style5 {
-  font: 12px/18px normal "Courier New", sans-serif;
-  padding-left: 70px;
-  padding-top: 2px;
-  padding-bottom: 2px;
-  background-color: #000;
-  color: white;
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-  margin: 5px;
-  background-image: url(images/openquote5.gif);
-  background-position: middle left;
-  background-repeat: no-repeat;
-  text-indent: 23px;
-  }
-  blockquote.style5 div {
-    padding-right: 50px;
-    display: block;
-    background-image: url(images/closequote5.gif);
-    background-repeat: no-repeat;
-    background-position: bottom right;
-} 
-
 
 /* Buttons and Fun Turn into base style*/
 /* Source- http://devgrow.com/super-simple-css-buttons/ */
 
+.badge { 
+
+position: ;}
+
 .button {
-    padding: 5px 10px;
+    padding: 8px 10px;
     display: inline;
     background: #888 url(img/button.png) repeat-x bottom;
     border: none;
