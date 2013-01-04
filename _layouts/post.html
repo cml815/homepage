@@ -1,12 +1,13 @@
 ---
-layout: default
+layout: blog
 ---
-<article class="post">
+<article class="wrapper">
+	<div>
 			<h2>{{ page.title }}</h2>
-			<h2>{{ date: %Y-%m-%d, %x}}</h2>
+			<h2>{{ post.date | %Y-%m-%d }}</h2>
 			<img src="{{ page.image }}" />
 		</div>
-		<div class="content-container">
+		<div class="post-">
 			<p>{{ content }}</p>
 		</div>
 	<div>

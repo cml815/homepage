@@ -18,13 +18,13 @@ Marketing writers adopt the latest methods to attract attention and build an aud
 Technological advances and increased competition for dollars has had the opposite effect on contract and grant proposal writing. Dense proposals stripped of any semblance of a readable style.
 
 The trends in this field include:
-<ul>
+	<ul>
 	<li>Proposals required to use same font, size, spacing, margins.</li>
 	<li>Many RFPs require use of the funder's outline and header wording.</li>
 	<li>Stricter page limits - often shorter than the RFP itself.</li>
 	<li>Online submissions forms that deny any Word formatting (e.g., italics, bullet points).</li>
 	<li>Limits on attachments, if any.</li>
-</ul>
+	</ul>
 Following the requirements of a competitive call for proposals often means that all the organizing design elements have been stripped. And the words, paragraphs, and transitions themselves are the only frame to present the argument.
 
 On one level, it is liberating to not have to worry about design elements in a proposal. The addition of colorful photographs, graphs, and tables can detract from the time it take to develop a cogent argument. However, the reader has no cues to anchor focus, unless one dares to use ALL CAPS.

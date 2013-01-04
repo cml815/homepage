@@ -1,4 +1,11 @@
+/* Blog post style */
 
+article .wrapper {
+
+  width: 80%;
+  margin: 0 auto;
+  background-color: orange;
+}
 
 /* Portfolio styling */
 

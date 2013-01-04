@@ -4,7 +4,7 @@ layout: post
 author: leopold
 title: Consumer's Guide to Understanding Research
 published: true
-
+category: blog
 date: 2012-01-18 
 
 ---
