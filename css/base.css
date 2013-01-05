@@ -85,10 +85,10 @@ section { }
 
 p {
   	font-weight: 400;
-  	font-size: 16px;
-  	line-height: 1.5em;
+  	font-size: 18px;
+  	line-height: 1.3em;
     margin-bottom: 12px;
-  	font-family: 'Libre Baskerville'; /* "ff-meta-serif-web-pro" */
+  	font-family: 'Volkhorn'; /* "ff-meta-serif-web-pro" */
   	font-style: normal;
     	font-variant: normal;
 }
@@ -149,14 +149,13 @@ position: ;}
     display: inline;
     background: #888 url(img/button.png) repeat-x bottom;
     border: none;
-    color: #fff;
+    color: yellow;
     cursor: pointer;
     font-weight: bold;
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    text-shadow: 1px 1px #555;
     text-decoration: none;
     }
 
