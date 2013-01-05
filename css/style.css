@@ -79,7 +79,7 @@ ul.entries a:hover {
 
 .wrapper: {
 
-  width: 100%;
+  width: 100%
 }
 
 .content-header {
@@ -175,6 +175,12 @@ ol.posts {
   width: 66%;
 }
 
+/*Blog page */
+
+#blog {
+
+}
+
 #featured {
 
   background: #fff; 
@@ -185,14 +191,15 @@ ol.posts {
 
 }
 
-#featured h2, h3 {
+#featured, .bookmarks h3 {
 
-      color: #C74451; 
-      font-size: 18px; 
+      color: #3f6e98; 
+      font-size: 16px; 
       margin-bottom: 0.333em;
       margin-top: .5em;
 
-      }   
+      } 
+
 
 .bookmarks a:link, .bookmarks a:visited {
 
@@ -425,12 +432,9 @@ ul.block p {
 
 .imgBox {
 
-margin-left: 30px;
-margin-top: 250px;
-width: 180px;
-height: 180px;
-background-image: url('/img/simple-badge.png');
-background-repeat: no-repeat;
+position: absolute;
+top: 300px;
+left: 700px;
 
 }
 
@@ -544,89 +548,7 @@ margin-bottom: 24px;
   line-height: 0;
   height: 0;
 }
-  
 
-/* Grouping */
-
-.group:before,
-.group:after {
-  content:"";
-  display:table;
-}
-.group:after {
-  clear:both;
-}
-
-/* Featured News Section */
-
-.module {
-background-color: gray;
-
-}
-
-.feature {
-  background-color: white;
-  padding: 20px;
-  height: relative;
-  overflow: hidden;
-}
-
-.feature img {
-  margin-right: 20px;
-  margin-top: 10px;
-}
-
-.feature img, .feature h3 {
-  float: left;
-}
-
-.feature p { 
-
-  margin: 0 auto;
-  overflow: hidden;
-
-}
-
-.shadow {
-  position: relative;
-}
-
-.shadow:before, .shadow:after {
-
-  z-index: -1;
-  position: absolute;
-  content: "";
-  bottom: 15px;
-  left: 10px;
-  width: 50%;
-  top: 80%;
-  max-width:300px;
-  background: #777;
-  -webkit-box-shadow: 0 15px 10px #777;
-  -moz-box-shadow: 0 15px 10px #777;
-  box-shadow: 0 15px 10px #777;
-  -webkit-transform: rotate(-3deg);
-  -moz-transform: rotate(-3deg);
-  -o-transform: rotate(-3deg);
-  -ms-transform: rotate(-3deg);
-  transform: rotate(-3deg);
-}
-
-.shadow:after{
-  -webkit-transform: rotate(3deg);
-  -moz-transform: rotate(3deg);
-  -o-transform: rotate(3deg);
-  -ms-transform: rotate(3deg);
-  transform: rotate(3deg);
-  right: 10px;
-  left: auto;
-}
-
-
-.object img {
-
-  border: 2px solid black;
-}
 
 /* Footer */
 
@@ -707,11 +629,6 @@ section .small-print {
 
   margin: 0 auto;
   width: 70%;
-}
-
-.content-container p {
-
-  font-size: 18px;
 }
 
 
