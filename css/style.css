@@ -371,8 +371,6 @@ ul.block p {
 
 /* Home Page */
 
-.homepage {}
-
 .marquee {
 
   width: 100%;
@@ -397,7 +395,7 @@ ul.block p {
   padding-top: 50px;
   padding-left: 100px;
   width: 60%;
-  height: ;
+ 
 
 }
 
@@ -467,12 +465,12 @@ p.imgText {
 
 .jumbo { 
 
-  background-color: rgba(1, 1, 1, 0.8);
   height: 500px;
   text-align: inline-block;
+  background-image: url('/img/low_contrast_linen.png');
   }
 
-
+/* background-color: rgba(1, 1, 1, 0.8); */
 
 /* About page */
 
@@ -645,27 +643,24 @@ background-color: gray;
   border: 2px solid black;
 }
 
-
-
-
 /* Footer */
 
 footer  {
 
-  background-color: #010326; /* navy blue */
+  background-color: transparent; 
 
 }
 
 footer .box {
 
-  padding-left: 40px;
+  padding-left: 50px;
 }
-
 
 .contact p {
   font-size: 16px;
-  line-height: 1.4em;
-  color: white;
+  line-height: 1.0em;
+  color: #555;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 }
 
 /*Social Icons */
@@ -698,7 +693,9 @@ section .small-print {
 
 .small-print p {
   
-  color: gray;
+  display: inline-block;
+  padding-left: 50px;
+  color: #444;
   font-size: 14px;
   margin: 0 auto;
 
