@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-<article class="wrapper">
-	<div>
-			<h2>{{ post.title }}</h2>
-			<h2>{{ post.date | %Y-%m-%d }}</h2>
-			<img src="{{ page.image }}" />
+<article>
+	<div class="wrapper">
+		<div class="content-entry">
+			<h2 class="title">{{ page.title }}</h2>
+			<h2>{{ page.date | %Y-%m-%d }}</h2>
 		</div>
-		<div class="post-">
+		<div class="content-entry">
 			<p>{{ content }}</p>
 		</div>
-	<div>
-<article>
+	</div>
+</article>
+

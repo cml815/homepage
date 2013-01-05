@@ -75,25 +75,40 @@ ul.entries a:hover {
 
 }
 
-/* Portfolio entry (individual) */
+/* Portfolio & blog entry (individual) */
 
-article .portfolio-entry {
+.wrapper: {
 
   width: 100%;
-  background-color: orange;
+}
+
+.content-header {
+
+  width: 70%;
+  background-color: yellow;
+  margin: 0 auto;
+
+}
+
+.content-entry {
+
+  width: 70%;
+  background-color: white;
+  margin: 0 auto;
+
 
 }
 
 h2.title { padding-left: 250px;}
 
-.portfolio-entry img {
+.content-entry img {
 
  height: 200px;
  width: 200px;
  margin: 0 auto;
 }
 
-article .content {
+/* article .content {
 
   display: block;
   width: 66%;
@@ -101,9 +116,19 @@ article .content {
 
 }
 
+.content-entry {
+
+  display: block;
+  width: 66%;
+  margin: 0 auto;
+
+} 
+*/
+
 .content {
   padding: 40px;
 }
+
 
 
 

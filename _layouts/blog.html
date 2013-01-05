@@ -6,16 +6,15 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width">
-	<title>Word services for grants and research | Leopold Writing</title>
+	<title>{% if page.title %} {{ page.title }} | {% endif %} Leopold Writing</title>
 	<meta name="author" content="Caroline Leopold">
-	<meta name="description" content="Leopold Writing website 2013">
+	<meta name="description" content="Leopold Writing website v 0.2">
 	<script type="text/javascript" src="//use.typekit.net/guv4ckm.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	<link rel="shortcut icon" href="favicon.ico" />
-	<link href='http://fonts.googleapis.com/css?family=Lobster|Montserrat' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="css/reset.css">
-	<link href="social-buttons.css" rel="stylesheet">
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" href="/css/style.css">
 
 <!-- IE Fix for HTML5  -->
 	<!--[if lt IE 9]>
@@ -24,20 +23,14 @@
 
 </head>
 <body>
-	<div id="wrapper">
 	<header>
 		<nav id="navigation" class="topbar"> 
 			<ul>
-				<li><a class="logo active" href="#">&#x2632; Leopold </a></li>
-				<li><a href="#">about &#x270D; </a></li>
-				<li><a href="#">portfolio &#x2702; </a></li>
-					<ul> 
-						<li><a href="#cases">work samples</a></li>
-						<li><a href="#clients">clients</a></li>
-					</ul>
-				<li><a href="#">blog &#x2604; </a></li>
-				<li><a href="#">contact &#x2709; </a></li>
-				<li><a href="#">follow &#x261E;</a></li>
+				<li class="first logo"><a class="active" href="/">&#x2632; Leopold &#x2632;</a></li>
+				<li><a href="./about.html">About</a></li>
+				<li><a href="./work.html">Portfolio</a></li>
+				<li><a href="./blog.html">Blog</a></li>
+				<li class="last"><a href="./contact.html">Contact</a></li>
 			</ul>
 		</nav>
 	</header>
