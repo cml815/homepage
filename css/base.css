@@ -121,28 +121,23 @@ ul, ol {
 
 }
 
-a:link { color: gray; text-decoration: none}
-a:visited { color: gray; }
-a:hover { color: gray;}
-a:active { color: orange; }
+a:link { color: white; text-decoration: none;}
+a:visited { color: yellow; }
+a:hover { color: gray; font-weight: bold;}
+a:active { color: yellow; }
 
 /* Blockquotes - Credit to http://css-tricks.com/examples/Blockquotes/ */
 
 blockquote {
-  font: 14px/22px normal 'Open Sans', sans-serif;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  font-weight: 18px;
+  line-height: 1.3px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 18px;
+  margin-bottom: 18px;
   margin-left: 50px;
   padding-left: 15px;
   border-left: 3px solid #ccc;
 } 
-
-/* Buttons and Fun Turn into base style*/
-/* Source- http://devgrow.com/super-simple-css-buttons/ */
-
-.badge { 
-
-position: ;}
 
 .button {
     padding: 8px 10px;
