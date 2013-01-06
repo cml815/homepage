@@ -24,10 +24,16 @@ The site is structured with an index(home) page and 4 other pages:
 One primary layout with nested templates for blog and portfolio:
 
 Primary (all pages built from here, which contain header, nav, and footer)
-+ default.html
 
-Portfolio page path: potfolio_entry.md >> portfolio.html >> default.html
-Blog path: post.md >> blog_entry.html >> work.html >> default.html
+**default.html**
+
+Portfolio page path: 
+
+potfolio_entry.md --> portfolio.html --> work.html --> default.html
+
+Blog path: 
+
+post.md --> blog_entry.html -->  blog.html --> default.html
 
 
 Acknowledgements
@@ -37,7 +43,7 @@ Building this site to a boatload of online and real-life help.
 
 Credits section:
 
-Sean Collins [sc68cal](https://github.com/sc68cal) for Jekyll coding, Wordpress migration, tips, and much more.
+**Sean Collins** [sc68cal](https://github.com/sc68cal) for Jekyll coding, Wordpress migration, tips, and much more.
 
 Tom Preston-Warner [mojombo](https://github.com/mojombo), who among others built [Jekyll.rb](https://github.com/mojombo/jekyll)
 
