@@ -7,19 +7,27 @@ The repository is a beginner's stab at building a website from HTML5 and CSS3 an
 
 The site is structured:
 
--root
+root
   index.html 
+
   work.html 
+  
   about.html
+  
   blog.html
+  
   contact.html
+  
   favicon.ico
+  
   _layouts
+  
     default.html (layout for all pages)
     portfolio.html (layout to build pieces into portfolio)
     portfolio_entry (layout of raw portfolio entry)
     blog_entry (layout to assemble blog post)    
     post.html (raw blog posts in markdown filtered into layout)
+    
   -img
 
 Acknowledgements
