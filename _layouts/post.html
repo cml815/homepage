@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
-<article>
+<article id="blog-post">
 	<div class="wrapper">
-		<div class="content-header">
-			<h2 class="title">{{ page.title }}</h2>
-			<h2>{{ page.date | %Y-%m-%d }}</h2>
-		</div>
-		<div class="content-entry">
-			<p>{{ content }}</p>
+		<div class="contentFrame">
+			<h2 class="title">
+				{{ page.title }}
+			</h2>
+			<h2>
+			{{ page.date | %Y-%m-%d }}
+			</h2>
+				<div class="porfolioContentContainer">
+					<div class="content">
+					<p>{{ content }}</p>
+				</div>
 		</div>
 	</div>
 </article>

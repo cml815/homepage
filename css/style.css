@@ -98,6 +98,12 @@ ul.entries a:hover {
 
 /* Portfolio & blog entry (individual) */
 
+article p {
+
+  font-size: 16px;
+  font-family: 'Libre Baskerville';
+  color: black;
+}
 .wrapper: {
 
   width: 100%
@@ -111,22 +117,42 @@ ul.entries a:hover {
 
 }
 
-.content-entry {
+.contentFrame {
 
-  width: 70%;
-  background-color: white;
+  width: 80%;
+  background-color: rgba(79, 101, 107, 0.2);
   margin: 0 auto;
-
+  height: 100%;
 
 }
 
-h2.title { padding-left: 250px;}
+.porfolioContentContainer {
 
-.content-entry img {
+  width: 80%;
+  background-color: rgba(79, 101, 107, 0.4);
+  margin: 0 auto;
+  margin-bottom: 100px;
+  height: 80%;
+}
+
+h2.title { 
+
+  padding-left: 0px;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 24px;
+}
+
+.contentFrame img {
 
  height: 200px;
  width: 200px;
  margin: 0 auto;
+ padding: 20px;
+
+
 }
 
 .content {
@@ -140,27 +166,29 @@ article h2 {
 
  padding-left: 180px;
 
-
 }
+
 
 .blog-wrapper {
 
   width: 90%;
   margin: 0 auto;
-  height: relative;
-  display: inline-block;
-  padding: 20px 0 20px 50px;
-  padding-left: 100px;
+  height: 500px;
+  background-color: white;
 }
 
-section .banner {
+.inner-container {
 
-  width: 100%;
+  width: 80%;
+  height: 90%;
   margin: 0 auto;
+  padding-top: 40px;
+  background-color: #cfd4d6;
 }
 
 .banner h1 {
 
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   font-size: 24px;
   color: black;
 
@@ -180,10 +208,11 @@ ol.posts {
 
 #featured {
 
-  background: #fff; 
+  background-color: rgba(79, 101, 107, 0.1); 
   margin-bottom: 2em; 
   overflow: hidden; 
-  padding: 20px; width: 600px;
+  padding: 20px; 
+  width: 500px;
   margin-right: 50px;  
 
 }
@@ -351,12 +380,9 @@ ul.block p {
 
   color: black;
   line-height: 1.4em;
+  margin-bottom: 2em;
 
   }
-
-.marquee h1:after {
-  padding-bottom: 2.0em;
-}
 
 .main {
 
@@ -374,6 +400,20 @@ ul.block p {
   font-weight: bold;
   padding-left: 150px;
 }
+
+.tagline {
+
+font-size: 24px;
+
+}
+
+.paragraphTop {
+
+  font-size: 16px;
+  font-weight: bold;
+  padding-right: 100px;
+}
+
 
 .call {
 
@@ -421,7 +461,6 @@ height: 500px;
 width: 100%;
 text-align: inline-block;
 background-image: url('/img/low_contrast_linen.png');
-
 }
 
 .caption p {
@@ -535,24 +574,36 @@ margin-bottom: 24px;
 
 footer  {
 
-  background-color: #0f161c; 
-
+   background-color: rgba(1, 1, 1, 0.9);
 }
+
+
 
 .footer-container {
 
-  height: 40px;
+  height: 100px;
+ 
+
 }
+
 
 .footer-content p {
 
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-  padding-left: 20px;
-  padding-top: 10px;
+  padding-left: 20px;;
   color: #fff;
   font-size: 14px;
+  line-height: 1em;
+  padding-top: 20px;
+  text-align: center;
 
 }
+
+.copyright {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
 /* BLOG POST LAYOUT */
 
 
@@ -584,7 +635,6 @@ footer  {
 nav {
 
   width: 100%;
-  margin-left: -10px;
   position: fixed;
   display: inline-block;
   top: 1px;
@@ -607,6 +657,11 @@ nav ul {
   margin-top: 1px;
 }
 
+nav ul li a {
+
+  display: block;
+}
+
 
 nav ul li:hover > ul {
 
@@ -622,30 +677,40 @@ nav ul li {
  
 nav li a {
   
+  width: 100px;
+  height: 28px;
+  font-size: 14px;
   margin-right: 50px;
-  font-size: 18px;
+  margin-top: -2px;
+  text-align: center;
   font-family:'Open Sans', Helvetica, Arial, sans-serif; /* pick a font */
 }
 
 
-/* Needs a fix
-nav li a 
 nav a:link { color: white; }
-nav a:hover { color: gray; }
+nav a:visited { color: white;}
+nav a:hover {background-color: rgba(1, 1, 1, 0.7); }
 nav a:active { color: orange; }
-*/
+
 
 nav li:first-child a {
 
-  font: 18px;  
+  width: 200px;
+  height: 34px;
+  font-size: 22px;
+  background-color: black; 
   font-weight: bold;
   margin-left: 20px;
-  color: #d67e19;
+  color: #fff;
 
   } 
 
 nav li:nth-child(2) a { margin-left: 200px; }
-nav li:last-child a { border: none; }
+
+nav .logo a:link {color: white; }
+nav .logo a:visited {color: white; }
+nav .logo a:hover {background-color: rgba(1, 1, 1, 0.7); } 
+nav .logo a:active {background-color: rgba(1, 1, 1, 0.7); } 
 
 /* link transition - debug */
 
