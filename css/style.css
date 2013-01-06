@@ -3,12 +3,27 @@
 @import url(font.css);
 
 
-/* Portfolio page (grid) */
+.para span {
+
+  color: orange;
+  font-weight: bold;
+}
+
+h1.title-light {
+
+  color: orange;
+}
+
+/* Portfolio */
 
 .wrapper {
 
-  margin-top: 20px;
+  margin-top: 15px;
 }
+
+.posts { display: inline-block;}
+
+.posts li { margin-bottom: 24px}
 
 .port-wrapper {
 
@@ -104,28 +119,9 @@ h2.title { padding-left: 250px;}
  margin: 0 auto;
 }
 
-/* article .content {
-
-  display: block;
-  width: 66%;
-  margin: 0 auto;
-
-}
-
-.content-entry {
-
-  display: block;
-  width: 66%;
-  margin: 0 auto;
-
-} 
-*/
-
 .content {
   padding: 40px;
 }
-
-
 
 
 /* Blog */
@@ -171,11 +167,6 @@ ol.posts {
   width: 66%;
 }
 
-/*Blog page */
-
-#blog {
-
-}
 
 #featured {
 
@@ -223,15 +214,6 @@ ol.posts {
 
 }
 
-/* Portfolio */
-
-
-.posts { display: inline-block;}
-
-.posts li { margin-bottom: 24px}
-
-.posts li a { }
-
 
 /* Blog */
 
@@ -244,17 +226,6 @@ ol.posts {
 }
 
 
-.thumb-post { 
-
-  float: left;
-
-  }
-
-.thumb-post img: {
-
-  display: block;
-
-}
 
 .post-content {
 
@@ -441,8 +412,6 @@ left: 700px;
   background-image: url('/img/low_contrast_linen.png');
   }
 
-/* background-color: rgba(1, 1, 1, 0.8); */
-
 /* About page */
 
 .page { 
@@ -483,11 +452,6 @@ margin-bottom: 24px;
   text-transform: normal;
 }
 
-/* Profile Image  */
-
-.imgBio {
-
-}
 
 /* Services Section */
 
@@ -548,13 +512,14 @@ footer  {
 
 .footer-container {
 
-  height: relative;
+  height: 40px;
 }
 
-footer .content p {
+.footer-content p {
 
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   padding-left: 20px;
+  padding-top: 10px;
   color: #fff;
   font-size: 14px;
 
@@ -590,11 +555,12 @@ footer .content p {
 nav {
 
   width: 100%;
+  margin-left: -10px;
   position: fixed;
   display: inline-block;
-  top: 0;
+  top: 1px;
   z-index: 2;
-  height: 30px;
+  height: 36px;
   background-color: rgba(1, 1, 1, 0.8);
   /* Navbar shadows shadow to the bottom of the bar */
   -webkit-box-shadow: 0px 0px 8px 0px #000000;
@@ -731,19 +697,6 @@ nav li:last-child a { border: none; }
 }
 
 
-
-
-.clearfix {}
-
-.indexTop {
-
-}
-
 .indexBody {
 
 } 
-
-.indexBottom {
-
-
-}

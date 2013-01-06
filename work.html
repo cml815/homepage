@@ -2,20 +2,22 @@
 layout: default
 title: Portfolio
 ---
-<div id="work" class="port-wrapper">
-<section>
-  <div class="portfolio">
-     <h1>Portfolio | Stories & Samples</h1>
-    <ul class="entries">
-    {% for post in site.posts %}
+<div id="work" class="wrapper"> 
+  <div class="port-wrapper">
+    <section>
+      <div class="portfolio">
+      <h1>Portfolio | Stories & Samples</h1>
+        <ul class="entries">
+      {% for post in site.posts %}
       {% if post.category == "portfolio" %}
-      <li>
+        <li>
         <a href="{{ post.url }}"><img src="{{ post.image }}" height="200" width="200" /></a>
-      </li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-  </div>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
   </section>
+</div>
 </div>
 
