@@ -1,20 +1,25 @@
 ---
 layout: default
 ---
-<article id="blog-post">
+<section id="posts">
 	<div class="wrapper">
-		<div class="contentFrame">
-			<h2 class="title">
+		<h4><a href="/blog.html">Posts</a></h4>
+		<article id="post">
+			<div class="banner">
+				<h1 class="title">
 				{{ page.title }}
-			</h2>
-			<h2>
-			{{ page.date | date: "%Y-%m-%d" }}
-			</h2>
-				<div class="porfolioContentContainer">
-					<div class="content">
-					<p>{{ content }}</p>
-				</div>
-		</div>
+				</h1>
+				<h4 class="date">{{ page.date | date: "%B %d, %Y" }}
+				</h4>
+			</div>
+			<div class="content">
+				<p>{{ content }}</p>
+			</div>
+			<div class="breadcrumb">
+				<h6><a href="/blog.html">Back to blog</a></h6>
+			</div>
+		</article>
 	</div>
-</article>
+	</div>
+</div>
 

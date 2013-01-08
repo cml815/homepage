@@ -70,11 +70,17 @@ ul.entries img {
 
 article p {
 
-  font-size: 16px;
+  font-size: 20px;
   font-family: 'Libre Baskerville';
   color: black;
 }
-.wrapper: {
+
+article a:link { color: #000; font-weight: bold; border-bottom: 1px black dotted;}
+article a:visited {color: #2e5660;}
+
+h4 a:link {color: #000; font-weight: bold; border-bottom: 1px black dotted;}
+
+#posts, #entries {
 
   width: 100%
 }
@@ -87,32 +93,40 @@ article p {
 
 }
 
-.contentFrame {
+section .wrapper {
 
-  width: 80%;
-  background-color: rgba(79, 101, 107, 0.2);
+  width: 60%;
+  background-color: #fff;
   margin: 0 auto;
   height: 100%;
+  margin-top: 0px;
+  padding: 50px;
 
 }
 
-.porfolioContentContainer {
+#portfolio-entry .wrapper h1 {
 
-  width: 80%;
-  background-color: rgba(79, 101, 107, 0.4);
-  margin: 0 auto;
-  margin-bottom: 100px;
-  height: 80%;
+  padding-top: 24px;
+  padding-left: 10px;
 }
 
-h2.title { 
+article .banner {
+
+  text-align: center;
+}
+
+
+
+article h1.title { 
 
   padding-left: 0px;
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-  font-size: 22px;
+  font-size: 40px;
   font-weight: bold;
+  color: #000;
   margin-top: 20px;
   margin-bottom: 24px;
+  text-align: center;
 }
 
 .contentFrame img {
@@ -122,15 +136,20 @@ h2.title {
  margin: 0 auto;
  padding: 20px;
 
-
 }
 
-.content {
-  padding: 40px;
-}
+
+
 
 
 /* Blog */
+
+#blog-post {}
+
+.breadcrumb h4 {
+
+  margin-top: 0px;
+}
 
 article h2 {
 
@@ -230,20 +249,8 @@ ol.posts {
 
 /* Blog */
 
-.box-centered { 
-
-  width: 100%;
-  
-  background-color:;
-
-}
-
-
-
 .post-content {
-
   margin: 16px 0 24px 90px;
-
 } 
 
 .post-date h5 {
@@ -266,7 +273,6 @@ ul.posts {
 
 
 .portfolio {
-  
   background-color: transparent;
   width: 100%;
   height: relative;
@@ -276,7 +282,6 @@ ul.posts {
 
 
 ul.entries { 
-
   padding: 0;
   list-style: none;
   margin: 20px auto 0;
@@ -285,7 +290,6 @@ ul.entries {
   }
 
 .entries li {
-
   float: left;
   padding: 0;
   border: 5px;
@@ -293,33 +297,27 @@ ul.entries {
 }
 
 .entries li { 
-
   display: block;
   height: 200px;
 }
 
 .entries li img {
-
   background-color: white;
   clear: both;
- 
 }
 
 .entries li a:hover img {
-
   opacity:0.3; 
   filter:alpha(opacity=30);
 }
 
 ul.block {
-
   display: inline-block;
   margin-left: 20px;
   
 }
 
 .block h4 {
-
    font-family: "chapparal pro", Arial, Helvetica;
   line-height: 1em;
   margin-bottom: 10px;
@@ -336,9 +334,7 @@ ul.block p {
 }
 
 .block:last-child { 
-
   margin-bottom: 16px
-
 }
 
 /* Home Page */
