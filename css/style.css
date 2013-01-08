@@ -577,13 +577,18 @@ footer  {
    background-color: rgba(1, 1, 1, 0.9);
 }
 
+footer a:link {
+  text-decoration: none; 
+  border-bottom: 1px dashed white;
+  font-weight: bold;
+}
 
 
 .footer-container {
 
   height: 100px;
+  padding-top: 10px;
  
-
 }
 
 
@@ -591,18 +596,18 @@ footer  {
 
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   padding-left: 20px;;
-  color: #fff;
+  color: #888;
   font-size: 14px;
-  line-height: 1em;
-  padding-top: 20px;
+  margin-top: 8px;
   text-align: center;
 
 }
 
 .copyright {
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
+
 
 /* BLOG POST LAYOUT */
 

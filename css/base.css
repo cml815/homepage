@@ -115,9 +115,9 @@ ul, ol {
 
 }
 
-a:link { color: #222; text-decoration: none;}
+a:link { color: #888; text-decoration: none; }
 a:visited { color: #444; }
-a:hover { color: #444;}
+a:hover { color: #fff; }
 a:active { color: yellow; }
 
 /* Blockquotes - Credit to http://css-tricks.com/examples/Blockquotes/ */
