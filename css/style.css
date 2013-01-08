@@ -572,27 +572,15 @@ margin-bottom: 24px;
 
 /* Footer */
 
+
 footer  {
 
    background-color: rgba(1, 1, 1, 0.9);
+   height: 100px;
+   padding-top: 10px;
 }
 
-footer a:link {
-  text-decoration: none; 
-  border-bottom: 1px dashed white;
-  font-weight: bold;
-}
-
-
-.footer-container {
-
-  height: 100px;
-  padding-top: 10px;
- 
-}
-
-
-.footer-content p {
+footer p {
 
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   padding-left: 20px;;
@@ -600,7 +588,12 @@ footer a:link {
   font-size: 14px;
   margin-top: 8px;
   text-align: center;
+}
 
+footer a:link {
+  text-decoration: none; 
+  border-bottom: 1px dashed white;
+  font-weight: bold;
 }
 
 .copyright {
