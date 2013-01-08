@@ -9,4 +9,6 @@ title: Teaching on Grants
 
 ##### In May 2012, I gave a [CME talk](http://ictr.johnshopkins.edu/ictr/2012/05/jhcrn-workshop-overview-of-acquiring-research-grants-may-22.html) to the [Johns Hopkins Clinical Research Network](http://ictr.johnshopkins.edu/JHCRN/). The consortium helmed by Johns Hopkins University is dedicated to helping hospitals surrounding Baltimore participate in clinical research studies. Among the challenges physicians face is not being able to "break into" the world of research grants. With the chilly funding climate at the NIH, this is not surprising.
 
+##### [Back to Portfolio](/work.html)
+
 

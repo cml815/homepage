@@ -11,3 +11,5 @@ title: Aging and health
 
 ##### In addition, I had a medical writing assignment with the [American Physician Institute](http://www.americanphysician.com) related to geriatric medicine. My writing was to provide instruction aid to internal medicine residents sitting for American Board of Internal Medicine exam. The job allowed me to be immersed in the latest research on the chronics diseases of aging that in total affect the majority of older adults - heart disease, cancer, diabetes, dementia/Alzheimers. 
 
+##### [Back to Portfolio](/work.html)
+
