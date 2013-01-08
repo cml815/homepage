@@ -27,23 +27,16 @@ h1.title-light {
 /* Portfolio */
 
 .wrapper {
-
   margin-top: 15px;
 }
 
-.posts { display: inline-block;}
-
-.posts li { margin-bottom: 24px}
-
 .port-wrapper {
-
   width: 100%;
   padding-left: 150px;
   background-color: rgba(1, 1, 1, 0.8);
 }
 
 .entries {
-
   padding-left: 100px;
 }
 
@@ -52,13 +45,7 @@ h1.title-light {
   color: #fff;
 }
 
-.matrix ul {
- 
-  height: relative;
-}
-
 ul.entries {
-
   list-style-type: none;
   margin: 0 auto;
 }
@@ -66,37 +53,20 @@ ul.entries {
 ul.entries li {
   width: 200px;
   height: 10px;
-  padding:;
-  background: #ececec;
 }
 
-
-ul.entries img {
-  width: 200px;
-  height: 200px;
-
-}
-
-
-ul.entries {
-  list-style-type: none;
-}
-
-ul.entries li a {
+ul.entries a {
   float: left;
   margin: 0px;
 }
 
-
-ul.entries a {
-  color: #ececec;
-}
-ul.entries a:hover {
-  color: #fff;
-
+ul.entries img {
+  width: 200px;
+  height: 200px;
 }
 
-/* Portfolio & blog entry (individual) */
+
+/* Portfolio & blog entries */
 
 article p {
 
@@ -204,6 +174,10 @@ ol.posts {
 
   width: 66%;
 }
+
+.posts { display: inline-block;}
+
+.posts li { margin-bottom: 24px}
 
 
 #featured {
