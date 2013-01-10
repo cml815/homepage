@@ -11,7 +11,7 @@ title: Portfolio
       {% for post in site.posts %}
       {% if post.category == "portfolio" %}
         <li>
-        <a href="{{ post.url }}"><img src="{{ post.image }}" height="200" width="200" /></a>
+        <a href="{{ post.url }}"><img src="{{ post.image }}" height="200" width="200" /><p class="entry-title">{{ post.title }}</p></a>
         </li>
         {% endif %}
       {% endfor %}

@@ -1,21 +1,17 @@
 
-/* 12 column grid framework with added positioning rules */
+/* Grid structure */
 
 .box {
-
 height: relative;
 overflow: hidden;
-padding: 10px 0 10px 10px;
-
+/* padding: 10px 0 10px 10px; */
 }
-
 
 [class*='col-'] {
   float: left;
 }
 
 .col-12 {
-
 	width: 100%;
 }
 
@@ -42,7 +38,6 @@ padding: 10px 0 10px 10px;
 }
 
 .col-3 {
-
   width: 25%;
 
 }
@@ -54,8 +49,6 @@ padding: 10px 0 10px 10px;
 .col-1 {
   width: 12.5%;
 }
-
-/* clear grid */
 
 .grid:after {
   content: "";
@@ -77,22 +70,16 @@ padding: 10px 0 10px 10px;
   padding: 20px 0 20px 20px;
 }
  
-}
-
 .border > [class*='col-']:last-of-type {
   padding-right: 20px;
 }
 
-/* Novel Styles outside grid system */
-
 .centered {
-
   position: fixed;
   top: 50%;
   left: 50%;
   margin-top:; /* height of object */ 
   margin-left:; /* width of object */ 
-
 }
 
 
