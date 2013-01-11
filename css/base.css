@@ -50,20 +50,16 @@ article, aside, figure, footer, header, hgroup, nav, section {
 }
 
 body {
-	
 	height: 100%;
 	width: 100%;
   padding-top: 20px;
 }
 
 body {
-
 background: #fff url('/img/shl.png') repeat fixed center top;
-
 }
 
 header {
- 
   overflow: hidden;
 }
 
@@ -101,7 +97,6 @@ h3, h4, h5, h6 {
 } 
 
 img {
-
 	max-width: 100%;
 	height: auto;
 	width: auto\9; /* ie8 */
@@ -115,8 +110,6 @@ a:link { color: #888; text-decoration: none; }
 a:visited { color: #444; }
 a:hover { color: #fff; }
 a:active { color: yellow; }
-
-/* Blockquotes - Credit to http://css-tricks.com/examples/Blockquotes/ */
 
 blockquote {
   font-weight: 18px;
@@ -169,6 +162,13 @@ blockquote {
 .button.small:hover { background-position: 0 -50px; }
 .button.small:active { padding: 4px 7px 2px; background-position: 0 top; }
 
-
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
 
 
