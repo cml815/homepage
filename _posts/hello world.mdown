@@ -1,0 +1,20 @@
+---
+layout: post
+title: hello world
+date: 2013-01-02
+categories:
+-uncategorized 
+tags: 
+-jekyll
+---
+
+Here is a test post deploying jekyll's static site generator for a blog post. When I first launched my business website in December of 2011, I went a traditional path-- Wordpress site and paying for web hosting. The launch was fast and relatively problem free. At first. But then I became fussy and wanted to customize the look of the site. 
+
+After following the garden path of purchased themes, different frameworks such as Genesis and Premise, I was tired. My site became less interesting because it was constraining. Initially, I thought I would learn Wordpress customization and downloaded MAMP to create a test server. The PHP files were daunting and I quickly knew there must be a faster way. Why not code my own website using building blocks of HTML and CSS. 
+
+As a writer, I wanted my static site to have dynamic content. My partner, a computer programmer, would give gentle advice that I couldn't hear. Because I didn't understand. He would say Jekyll and I would nod and say, "Yes," but continue with building my blog page by page. Of course, I dumped that idea after seeing the confused mess my novice code was making. And with his help, I deployed Jekyll, used github for version control. 
+
+Learning the architecture of web pages has changed my life in ways I cannot explain. As a writer, I am a bit embarrassed that I cannot describe what I have learned. In the process of learning, I am a changed person. That transformation is akin to rust on metal. Seems similar to the original, but profoundly different. 
+
+It is my hope that in this blog, I will describe the journey from writer to developer. 
+
